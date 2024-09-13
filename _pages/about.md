@@ -38,7 +38,7 @@ I serve as the reviewer for conferences (NeurIPS 2024, IJCAI 2024) and journals 
 
 ## Spiking Neural Networks
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML-2024(Poster)</div><img src='../images/snn_ts.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML-2024 (Poster)</div><img src='../images/snn_ts.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Efficient and Effective Time-Series Forecasting with Spiking Neural Networks \\
@@ -49,7 +49,7 @@ Efficient and Effective Time-Series Forecasting with Spiking Neural Networks \\
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR-2023(Poster)</div><img src='../images/spikingTextCNN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR-2023 (Poster)</div><img src='../images/spikingTextCNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Spiking Convolutional Neural Networks for Text Classification \\
