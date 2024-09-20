@@ -20,17 +20,17 @@ redirect_from:
 I'm currently a Ph.D. student (from fall, 2022) at the [School of Computer Science](https://cs.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) and a member of the [FudanNLP Lab](https://nlp.fudan.edu.cn/), advised by A.P. [Xiaoqing Zheng (郑骁庆)](https://faculty.fudan.edu.cn/zhengxq/zh_CN/) and Prof. [Xuanjing Huang (黄萱菁)](https://xuanjing-huang.github.io/).
 
 My research interests cover **Brain-inspired Computing** and **Large Language Models**.
-I am currently working on **Spiking Neural Networks for Sequential Tasks** like natural language processing and time series analysis.
+I am currently working on **Spiking Neural Networks for Sequential Tasks**, which includes natural language processing and time series analysis.
 
 First-author Publications: ICLR 2023, ICML 2024.
 
 Co-author Publications: EMNLP 2023, ACL 2024.
 
-I serve as the reviewer for conferences (NeurIPS 2024, IJCAI 2024) and journals (Neural Networks).
+I serve as the reviewer for conferences (ICLR 2025, NeurIPS 2024, IJCAI 2024) and journals (Neural Networks).
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 Two paper on RAG and federated learning was accepted by **EMNLP-2024-Main/Findings**!
-- *2024.05*: &nbsp;🎉🎉 Two paper on large language models was accepted by **ACL-2024-Main**!
+- *2024.09*: &nbsp;🎉🎉 Two papers on RAG and LLM safety were accepted by **EMNLP-2024-Main/Findings**!
+- *2024.05*: &nbsp;🎉🎉 Two papers on LLM alignment and PEFT were accepted by **ACL-2024-Main**!
 - *2024.05*: &nbsp;🎉🎉 One paper on time-series forecasting with spiking neural networks was accepted by **ICML-2024**!
 - *2023.10*: &nbsp;🎉🎉 One paper on parameter-efficient-fine-tuning was accepted by **EMNLP-2023-Findings**!
 - *2023.01*: &nbsp;🎉🎉 One paper on spiking neural networks for text classification was accepted by **ICLR-2023**!
