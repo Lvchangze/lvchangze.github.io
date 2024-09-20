@@ -29,6 +29,7 @@ Co-author Publications: EMNLP 2023, ACL 2024.
 I serve as the reviewer for conferences (NeurIPS 2024, IJCAI 2024) and journals (Neural Networks).
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 Two paper on RAG and federated learning was accepted by **EMNLP-2024-Main/Findings**!
 - *2024.05*: &nbsp;🎉🎉 Two paper on large language models was accepted by **ACL-2024-Main**!
 - *2024.05*: &nbsp;🎉🎉 One paper on time-series forecasting with spiking neural networks was accepted by **ICML-2024**!
 - *2023.10*: &nbsp;🎉🎉 One paper on parameter-efficient-fine-tuning was accepted by **EMNLP-2023-Findings**!
@@ -92,6 +93,15 @@ Towards Biologically Plausible Computing: A Comprehensive Comparison \\
 </div>
 
 ## Others
+
+- ![](https://img.shields.io/badge/EMNLP--2024--Main-darkblue) Searching for Best Practices in Retrieval-Augmented Generation
+<br> Xiaohua Wang, Zhenghua Wang, Xuan Gao, Feiran Zhang, Yixin Wu, Zhibo Xu, Tianyuan Shi, Zhengyuan Wang, Shizheng Li, Qi Qian, Ruicheng Yin, **Changze Lv**, Xiaoqing Zheng, Xuanjing Huang
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2407.01219) | [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/FudanDNN-NLP/RAG)
+
+- ![](https://img.shields.io/badge/EMNLP--2024--Findings-darkblue) Promoting Data and Model Privacy in Federated Learning through Quantized LoRA
+<br> JianHao Zhu, **Changze Lv**, Xiaohua Wang, Muling Wu, Wenhao Liu, Tianlong Li, Zixuan Ling, Cenyuan Zhang, Xiaoqing Zheng, Xuanjing Huang
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2406.10976)
+
 - ![](https://img.shields.io/badge/ACL--2024--Main-darkblue) Aligning large language models with human preferences through representation engineering
 <br> Wenhao Liu, Xiaohua Wang, Muling Wu, Tianlong Li, **Changze Lv**, Zixuan Ling, Jianhao Zhu, Cenyuan Zhang, Xiaoqing Zheng, Xuanjing Huang
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2312.15997) | [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/LiuAmber/RAHF)
@@ -115,15 +125,6 @@ Towards Biologically Plausible Computing: A Comprehensive Comparison \\
 - ![](https://img.shields.io/badge/Arxiv--yellow) SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network
 <br> Tianlong Li, Wenhao Liu, **Changze Lv**, Jianhan Xu, Cenyuan Zhang, Muling Wu, Xiaoqing Zheng, Xuanjing Huang
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2310.06488)
-
-- ![](https://img.shields.io/badge/Arxiv--yellow) Promoting Data and Model Privacy in Federated Learning through Quantized LoRA
-<br> JianHao Zhu, **Changze Lv**, Xiaohua Wang, Muling Wu, Wenhao Liu, Tianlong Li, Zixuan Ling, Cenyuan Zhang, Xiaoqing Zheng, Xuanjing Huang
-<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2406.10976)
-
-
-- ![](https://img.shields.io/badge/Arxiv--yellow) Searching for Best Practices in Retrieval-Augmented Generation
-<br> Xiaohua Wang, Zhenghua Wang, Xuan Gao, Feiran Zhang, Yixin Wu, Zhibo Xu, Tianyuan Shi, Zhengyuan Wang, Shizheng Li, Qi Qian, Ruicheng Yin, **Changze Lv**, Xiaoqing Zheng, Xuanjing Huang
-<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2407.01219) | [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/FudanDNN-NLP/RAG)
 
 - ![](https://img.shields.io/badge/Bioxiv--yellow) Decoding Continuous Character-based Language from Non-invasive Brain Recordings
 <br> Cenyuan Zhang, Xiaoqing Zheng, Ruicheng Yin, Shujie Geng, Jianhan Xu, Xuan Gao, **Changze Lv**, Zixuan Ling, Xuanjing Huang, Miao Cao, Jianfeng Feng
