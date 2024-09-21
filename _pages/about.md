@@ -35,7 +35,7 @@ I serve as the reviewer for conferences (ICLR 2025, NeurIPS 2024, IJCAI 2024) an
 - *2023.10*: &nbsp;🎉🎉 One paper on parameter-efficient-fine-tuning was accepted by **EMNLP-2023-Findings**!
 - *2023.01*: &nbsp;🎉🎉 One paper on spiking neural networks for text classification was accepted by **ICLR-2023**!
 
-# 📝 Publications and Preprints
+# 📝 Publications
 
 ## Spiking Neural Networks
 
