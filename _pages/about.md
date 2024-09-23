@@ -24,9 +24,9 @@ I am currently working on **Spiking Neural Networks for Sequential Tasks**, whic
 
 First-author Publications: ICLR 2023, ICML 2024.
 
-Co-author Publications: EMNLP 2023, ACL 2024.
+Co-author Publications: EMNLP, ACL.
 
-I serve as the reviewer for conferences (ICLR 2025, NeurIPS 2024, IJCAI 2024) and journals (Neural Networks).
+I serve as the reviewer for conferences (ICLR 2025, NeurIPS 2024) and journals (Neural Networks).
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 Two papers on RAG and LLM safety were accepted by **EMNLP-2024-Main/Findings**!
