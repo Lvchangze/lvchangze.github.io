@@ -22,13 +22,14 @@ I'm currently a Ph.D. student (from fall, 2022) at the [School of Computer Scien
 My research interests cover **Brain-inspired Computing** and **Large Language Models**.
 I am currently working on **Spiking Neural Networks for Sequential Tasks**, which includes natural language processing and time series analysis.
 
-First-author Publications: ICLR 2023, ICML 2024.
+First-author Publications: ICLR 2023, ICML 2024, NeurIPS 2024.
 
 Co-author Publications: EMNLP, ACL.
 
 I serve as the reviewer for conferences (ICLR 2025, NeurIPS 2024) and journals (Neural Networks).
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 One paper on positional encoding for SNNs was accepted by **NeurIPS-2024-Spotlight**!
 - *2024.09*: &nbsp;🎉🎉 Two papers on RAG and LLM safety were accepted by **EMNLP-2024-Main/Findings**!
 - *2024.05*: &nbsp;🎉🎉 Two papers on LLM alignment and PEFT were accepted by **ACL-2024-Main**!
 - *2024.05*: &nbsp;🎉🎉 One paper on time-series forecasting with spiking neural networks was accepted by **ICML-2024**!
@@ -38,6 +39,16 @@ I serve as the reviewer for conferences (ICLR 2025, NeurIPS 2024) and journals (
 # 📝 Publications
 
 ## Spiking Neural Networks
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 (Spotlight)</div><img src='../images/cpg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators \\
+**Changze Lv**, Dongqi Han, Yansen Wang, et al.
+- A bio-inspired novel positional encoding method for spiking neural networks.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2405.14362) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/microsoft/SeqSNN) 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML-2024 (Poster)</div><img src='../images/snn_ts.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -67,16 +78,6 @@ SpikeBERT: A Language Spikformer Trained with Two-stage Knowledge Distillation f
 **Changze Lv**, Tianlong Li, Jianhan Xu, et al.
 - A spiking language model for language understanding based on Spikformer.
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2308.15122.pdf) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/Lvchangze/SpikeBERT) 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv(2405.14362)</div><img src='../images/cpg.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators \\
-**Changze Lv**, Dongqi Han, Yansen Wang, et al.
-- A bio-inspired novel positional encoding method for spiking neural networks.
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2405.14362) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/microsoft/SeqSNN) 
 </div>
 </div>
 
