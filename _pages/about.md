@@ -29,6 +29,7 @@ Co-author Publications: EMNLP, ACL.
 I serve as the reviewer for conferences (ICLR 2025, NeurIPS 2024) and journals (Neural Networks).
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 One paper on Jailbreak of LLMs was accepted by **COLING-2025**!
 - *2024.09*: &nbsp;🎉🎉 One paper on positional encoding for SNNs was accepted by **NeurIPS-2024-Spotlight**!
 - *2024.09*: &nbsp;🎉🎉 Two papers on RAG and LLM safety were accepted by **EMNLP-2024-Main/Findings**!
 - *2024.05*: &nbsp;🎉🎉 Two papers on LLM alignment and PEFT were accepted by **ACL-2024-Main**!
@@ -95,6 +96,10 @@ Towards Biologically Plausible Computing: A Comprehensive Comparison \\
 
 ## Others
 
+- ![](https://img.shields.io/badge/COLING--2025-darkblue) Revisiting Jailbreaking for Large Language Models: A Representation Engineering Perspective
+<br> Tianlong Li, Zhenghua Wang, Wenhao Liu, Muling Wu, Shihan Dou, **Changze Lv**, Xiaohua Wang, Xiaoqing Zheng, Xuanjing Huang
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2401.06824)
+
 - ![](https://img.shields.io/badge/EMNLP--2024--Main-darkblue) Searching for Best Practices in Retrieval-Augmented Generation
 <br> Xiaohua Wang, Zhenghua Wang, Xuan Gao, Feiran Zhang, Yixin Wu, Zhibo Xu, Tianyuan Shi, Zhengyuan Wang, Shizheng Li, Qi Qian, Ruicheng Yin, **Changze Lv**, Xiaoqing Zheng, Xuanjing Huang
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2407.01219) | [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/FudanDNN-NLP/RAG)
@@ -114,10 +119,6 @@ Towards Biologically Plausible Computing: A Comprehensive Comparison \\
 - ![](https://img.shields.io/badge/EMNLP--2023--Findings-darkblue) Parameter Efficient Multi-task Fine-tuning by Learning to Transfer Token-wise Prompts
 <br> Muling Wu, Wenhao Liu, Jianhan Xu, **Changze Lv**, Zixuan Ling, Tianlong Li, Longtao Huang, Xiaoqing Zheng, Xuan-Jing Huang
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://aclanthology.org/2023.findings-emnlp.584.pdf) | [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/mlwu22/TPT)
-
-- ![](https://img.shields.io/badge/Arxiv--yellow) Open the Pandora's Box of LLMs: Jailbreaking LLMs through Representation Engineering
-<br> Tianlong Li, Shihan Dou, Wenhao Liu, Muling Wu, **Changze Lv**, Xiaoqing Zheng, Xuanjing Huang
-<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2401.06824)
 
 - ![](https://img.shields.io/badge/Arxiv--yellow) Tailoring Personality Traits in Large Language Models via Unsupervisedly-Built Personalized Lexicons
 <br> Tianlong Li, Shihan Dou, **Changze Lv**, Wenhao Liu, Jianhan Xu, Muling Wu, Zixuan Ling, Xiaoqing Zheng, Xuanjing Huang
