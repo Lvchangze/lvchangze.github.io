@@ -24,9 +24,9 @@ I am currently working on **Spiking Neural Networks for Sequential Tasks**, whic
 
 First-author Publications: ICLR 2023, ICML 2024, NeurIPS 2024.
 
-Co-author Publications: EMNLP, ACL.
+Co-author Publications: ACL, EMNLP, COLING.
 
-I serve as the reviewer for conferences (ICLR 2025, NeurIPS 2024) and journals (Neural Networks).
+I serve as the reviewer for conferences (ICML 2025, ICLR 2025, NeurIPS 2024) and journals (Neural Networks).
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 One paper on Jailbreak of LLMs was accepted by **COLING-2025**!
@@ -132,6 +132,9 @@ Towards Biologically Plausible Computing: A Comprehensive Comparison \\
 <br> Cenyuan Zhang, Xiaoqing Zheng, Ruicheng Yin, Shujie Geng, Jianhan Xu, Xuan Gao, **Changze Lv**, Zixuan Ling, Xuanjing Huang, Miao Cao, Jianfeng Feng
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://www.biorxiv.org/content/biorxiv/early/2024/03/20/2024.03.19.585656.full.pdf)
 
+- ![](https://img.shields.io/badge/Arxiv--yellow) Multi-Programming Language Sandbox for LLMs
+<br> Shihan Dou, Jiazheng Zhang, Jianxiang Zang, Yunbo Tao, Haoxiang Jia, Shichun Liu, Yuming Yang, Shenxi Wu, Shaoqing Zhang, Muling Wu, **Changze Lv**, Limao Xiong, Wenyu Zhan, Lin Zhang, Rongxiang Weng, Jingang Wang, Xunliang Cai, Yueming Wu, Ming Wen, Rui Zheng, Tao Ji, Yixin Cao, Tao Gui, Xipeng Qiu, Qi Zhang, Xuanjing Huang
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2410.23074)
 
 # 🎖 Honors and Awards
 - *2023* Outstanding Student of Fudan University (复旦大学优秀学生)
