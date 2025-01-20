@@ -19,7 +19,7 @@ redirect_from:
 
 I'm currently a Ph.D. student (from fall, 2022) at the [School of Computer Science](https://cs.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) and a member of the [FudanNLP Lab](https://nlp.fudan.edu.cn/), advised by A.P. [Xiaoqing Zheng (郑骁庆)](https://faculty.fudan.edu.cn/zhengxq/zh_CN/) and Prof. [Xuanjing Huang (黄萱菁)](https://xuanjing-huang.github.io/).
 
-My research interests cover **Brain-inspired Computing** and **Large Language Models**.
+My research interests cover Brain-inspired Computing, Large Language Models, and Multi-Modal LLMs.
 I am currently working on **Spiking Neural Networks for Sequential Tasks** and **Biologically-Plausible Learning Algorithms**.
 
 First-author Publications: ICLR 2023, ICML 2024, NeurIPS 2024.
@@ -118,7 +118,7 @@ Towards Biologically Plausible Computing: A Comprehensive Comparison \\
 <br> JianHao Zhu, **Changze Lv**, Xiaohua Wang, Muling Wu, Wenhao Liu, Tianlong Li, Zixuan Ling, Cenyuan Zhang, Xiaoqing Zheng, Xuanjing Huang
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2406.10976)
 
-- ![](https://img.shields.io/badge/ACL--2024--Main-darkblue) Aligning large language models with human preferences through representation engineering
+- ![](https://img.shields.io/badge/ACL--2024--Main-darkblue) Aligning Large Language Models with Human Preferences through Representation Engineering
 <br> Wenhao Liu, Xiaohua Wang, Muling Wu, Tianlong Li, **Changze Lv**, Zixuan Ling, Jianhao Zhu, Cenyuan Zhang, Xiaoqing Zheng, Xuanjing Huang
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2312.15997) | [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/LiuAmber/RAHF)
 
@@ -147,6 +147,7 @@ Towards Biologically Plausible Computing: A Comprehensive Comparison \\
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2410.23074)
 
 # 🎖 Honors and Awards
+- *2024* Outstanding Student Leader of Fudan University (复旦大学优秀学生干部)
 - *2023* Outstanding Student of Fudan University (复旦大学优秀学生)
 - *2022* Excellent graduates of Fudan University (复旦大学优秀毕业生)
 - *2021* Shanghai Scholarship (上海市奖学金)
