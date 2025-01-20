@@ -84,6 +84,16 @@ SpikeBERT: A Language Spikformer Trained with Two-stage Knowledge Distillation f
 
 ## Brain-Inspired Learning
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv(2501.09976)</div><img src='../images/DLL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Dendritic Localized Learning: Toward Biologically Plausible Algorithm \\
+**Changze Lv***, Jingwen Xu*, Yiyang Lu*, et al.
+- A novel biologically plausible training method.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2501.09976)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv(2406.16062)</div><img src='../images/bio_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
