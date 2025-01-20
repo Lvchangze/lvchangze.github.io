@@ -88,7 +88,7 @@ SpikeBERT: A Language Spikformer Trained with Two-stage Knowledge Distillation f
 <div class='paper-box-text' markdown="1">
 
 Dendritic Localized Learning: Toward Biologically Plausible Algorithm \\
-**Changze Lv**\*, Jingwen Xu*, Yiyang Lu*, et al.
+**Changze Lv**\*, Jingwen Xu\*, Yiyang Lu\*, et al.
 - A novel biologically plausible training method.
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2501.09976)
 </div>
