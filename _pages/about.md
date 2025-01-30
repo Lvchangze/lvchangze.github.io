@@ -72,13 +72,13 @@ Spiking Convolutional Neural Networks for Text Classification \\
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='../images/REP_SNN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv(2501.16745)</div><img src='../images/REP_SNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Toward Relative Positional Encoding in Spiking Transformers \\
 **Changze Lv**, Yansen Wang, Dongqi Wang, et al.
 - A relative positional encoding for spiking Transformers based on Gray Code.
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/forum?id=8eXHkQwpxq) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/microsoft/SeqSNN)  
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2501.16745) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/microsoft/SeqSNN)  
 </div>
 </div>
 
