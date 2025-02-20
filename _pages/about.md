@@ -19,14 +19,14 @@ redirect_from:
 
 I'm currently a Ph.D. student (from fall, 2022) at the [School of Computer Science](https://cs.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) and a member of the [FudanNLP Lab](https://nlp.fudan.edu.cn/), advised by A.P. [Xiaoqing Zheng (郑骁庆)](https://faculty.fudan.edu.cn/zhengxq/zh_CN/) and Prof. [Xuanjing Huang (黄萱菁)](https://xuanjing-huang.github.io/).
 
-My research interests cover Brain-inspired Computing, Large Language Models, and Multi-Modal LLMs.
+My research interests cover Brain-inspired Computing, Large Language Models, Multi-Modal LLMs, and AI for Science.
 I am currently working on **Spiking Neural Networks for Sequential Tasks** and **Biologically-Plausible Learning Algorithms**.
 
-First-author Publications: ICLR 2023, ICML 2024, NeurIPS 2024.
+First-author publications in ICML, NeurIPS, and ICLR.
 
-Co-author Publications: ACL, EMNLP, COLING.
+Co-author publications in ACL, EMNLP, and COLING.
 
-I serve as the reviewer for conferences (ICML 2025, ICLR 2025, NeurIPS 2024) and journals (Neural Networks).
+I serve as the reviewer for conferences (ICML, ICLR, NeurIPS, COLING) and journals (Neural Networks).
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 One paper on Jailbreak of LLMs was accepted by **COLING-2025**!
