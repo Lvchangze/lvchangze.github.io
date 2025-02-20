@@ -28,6 +28,14 @@ Co-author publications in ACL, EMNLP, and COLING.
 
 I serve as the reviewer for conferences (ICML, ICLR, NeurIPS, COLING) and journals (Neural Networks).
 
+# 📖 Educations
+- *2018.09 - 2022.06*, Bachelor in Software Engineering (School of Software, Fudan University)
+- *2019.09 - 2022.06*, Bachelor in Economics (School of Economics and Management, Fudan University, Second Degree)
+- *2022.09 - Current*, Ph.D. Student in Computer Science (School of Computer Science, Fudan University).
+
+# 💻 Internships
+- *2023.11 - 2025.02*, Microsoft Research Asia, Artificial Intelligence & Machine Learning Group, [MSRA](https://www.msra.cn/).
+
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 One paper on Jailbreak of LLMs was accepted by **COLING-2025**!
 - *2024.09*: &nbsp;🎉🎉 One paper on positional encoding for SNNs was accepted by **NeurIPS-2024-Spotlight**!
@@ -164,11 +172,3 @@ Towards Biologically Plausible Computing: A Comprehensive Comparison \\
 - *2021* First Prize for Outstanding Undergraduate Student Scholarship, Fudan University (复旦大学一等奖学金)
 - *2020* Meritorious Prize in the Mathematical Contest in Modeling/Interdisciplinary Contest In Modeling (美国数学建模大赛M奖)
 - *2019* Third Prize in the National College Student Mathematics Competition (全国大学生数学竞赛三等奖)
-
-# 📖 Educations
-- *2022.09 - Current*, Ph.D. Student in Computer Science (School of Computer Science, Fudan University).
-- *2019.09 - 2022.06*, Bachelor in Economics (School of Economics and Management, Fudan University, Second Degree)
-- *2018.09 - 2022.06*, Bachelor in Software Engineering (School of Software, Fudan University)
-
-# 💻 Internships
-- *2023.11 - Current*, Microsoft Research Asia, Artificial Intelligence & Machine Learning Group, [MSRA](https://www.msra.cn/).
