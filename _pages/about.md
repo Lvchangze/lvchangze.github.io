@@ -26,7 +26,7 @@ First-author publications in ICML, NeurIPS, and ICLR.
 
 Co-author publications in ACL, EMNLP, and COLING.
 
-I serve as the reviewer for conferences (ICML, ICLR, NeurIPS, COLING) and journals (Neural Networks).
+I serve as the reviewer for conferences (ICML, ICLR, NeurIPS, ACL, IJCAI, COLING) and journals (Neural Networks).
 
 # 📖 Educations
 - *2018.09 - 2022.06*, Bachelor in Software Engineering (School of Software, Fudan University)
