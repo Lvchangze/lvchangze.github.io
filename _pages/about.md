@@ -34,7 +34,8 @@ I serve as the reviewer for conferences (ICML, ICLR, NeurIPS, ACL, IJCAI, COLING
 - *2022.09 - Current*, Ph.D. Student in Computer Science (School of Computer Science, Fudan University).
 
 # 💻 Internships
-- *2023.11 - 2025.02*, Microsoft Research Asia, Artificial Intelligence & Machine Learning Group, [MSRA](https://www.msra.cn/).
+- *2023.11 - 2025.02*, [Microsoft Research Asia](https://www.msra.cn/), Artificial Intelligence & Machine Learning Group.
+- *2025.02 - Current*, [Shanghai AI Lab](https://www.shlab.org.cn/), AI for Science Group.
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 One paper on Jailbreak of LLMs was accepted by **COLING-2025**!
