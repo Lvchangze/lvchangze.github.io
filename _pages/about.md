@@ -174,4 +174,4 @@ Towards Biologically Plausible Computing: A Comprehensive Comparison \\
 - *2019* Third Prize in the National College Student Mathematics Competition (全国大学生数学竞赛三等奖)
 
 # Welcome
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=4FJDDsvjuSFzFRBj90PhbhqvxK27XvsyT2vmNjJAHCQ&co=07558c&cmo=f5bbbb&cmn=2cb1cf'></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=w2UTaZyU2VVylIDbKR9XlKrB0nuQxq0EeuTgqkW9LDg&cl=ffffff&w=a"></script>
