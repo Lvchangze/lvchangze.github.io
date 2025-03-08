@@ -28,6 +28,8 @@ Co-author publications in ACL, EMNLP, and COLING.
 
 I serve as the reviewer for conferences (ICML, ICLR, NeurIPS, ACL, IJCAI, COLING) and journals (Neural Networks).
 
+Phone/Wechat: 13967492189. Feel free to communicate with me.
+
 # 📖 Educations
 - *2018.09 - 2022.06*, Bachelor in Software Engineering (School of Software, Fudan University)
 - *2019.09 - 2022.06*, Bachelor in Economics (School of Economics and Management, Fudan University, Second Degree)
@@ -120,6 +122,18 @@ Towards Biologically Plausible Computing: A Comprehensive Comparison \\
 **Changze Lv**, Yufei Gu, Zhengkang Guo, et al.
 - A comprehensive comparison of various brain-inspired training methods.
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2406.16062)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv(2503.04355)</div><img src='../images/layer-wise-PE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Large Language Models
+
+Layer-Specific Scaling of Positional Encodings for Superior Long-Context Modeling \\
+Zhenghua Wang\*, Yiran Ding\*, **Changze Lv**\*, et al.
+- A layer-specific positional encoding scaling method.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2503.04355)
 </div>
 </div>
 
