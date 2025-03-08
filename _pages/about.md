@@ -125,10 +125,10 @@ Towards Biologically Plausible Computing: A Comprehensive Comparison \\
 </div>
 </div>
 
+## Large Language Models
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv(2503.04355)</div><img src='../images/layer-wise-PE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-## Large Language Models
 
 Layer-Specific Scaling of Positional Encodings for Superior Long-Context Modeling \\
 Zhenghua Wang\*, Yiran Ding\*, **Changze Lv**\*, et al.
