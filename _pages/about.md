@@ -28,7 +28,7 @@ Co-author publications in ACL, EMNLP, and COLING.
 
 I serve as the reviewer for conferences (ICML, ICLR, NeurIPS, ACL, IJCAI, COLING) and journals (Neural Networks).
 
-Phone/Wechat: 13967492189. Feel free to communicate with me.
+Phone/Wechat: 13967492189. Please feel free to reach out to me.
 
 # 📖 Educations
 - *2018.09 - 2022.06*, Bachelor in Software Engineering (School of Software, Fudan University)
@@ -37,7 +37,7 @@ Phone/Wechat: 13967492189. Feel free to communicate with me.
 
 # 💻 Internships
 - *2023.11 - 2025.02*, [Microsoft Research Asia](https://www.msra.cn/), Artificial Intelligence & Machine Learning Group.
-- *2025.02 - Current*, [Shanghai AI Lab](https://www.shlab.org.cn/), AI for Science Group.
+- *2025.03 - Current*, [Shanghai AI Lab](https://www.shlab.org.cn/), AI for Science Group.
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 One paper on Jailbreak of LLMs was accepted by **COLING-2025**!
@@ -171,6 +171,10 @@ Zhenghua Wang\*, Yiran Ding\*, **Changze Lv**\*, et al.
 <br> Tianlong Li, Wenhao Liu, **Changze Lv**, Jianhan Xu, Cenyuan Zhang, Muling Wu, Xiaoqing Zheng, Xuanjing Huang
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2310.06488)
 
+- ![](https://img.shields.io/badge/Arxiv--yellow) Explainable Synthetic Image Detection through Diffusion Timestep Ensembling
+<br> Yixin Wu, Feiran Zhang, Tianyuan Shi, Ruicheng Yin, Zhenghua Wang, Zhenliang Gan, Xiaohua Wang, **Changze Lv**, Xiaoqing Zheng, Xuanjing Huang
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2503.06201)
+
 - ![](https://img.shields.io/badge/Bioxiv--yellow) Decoding Continuous Character-based Language from Non-invasive Brain Recordings
 <br> Cenyuan Zhang, Xiaoqing Zheng, Ruicheng Yin, Shujie Geng, Jianhan Xu, Xuan Gao, **Changze Lv**, Zixuan Ling, Xuanjing Huang, Miao Cao, Jianfeng Feng
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://www.biorxiv.org/content/biorxiv/early/2024/03/20/2024.03.19.585656.full.pdf)
@@ -180,6 +184,7 @@ Zhenghua Wang\*, Yiran Ding\*, **Changze Lv**\*, et al.
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2410.23074)
 
 # 🎖 Honors and Awards
+- *2025* Stars of Tomorrow Internship Program of Microsoft Research Asia (微软亚洲研究院“明日之星”)
 - *2024* Outstanding Student Leader of Fudan University (复旦大学优秀学生干部)
 - *2023* Outstanding Student of Fudan University (复旦大学优秀学生)
 - *2022* Excellent graduates of Fudan University (复旦大学优秀毕业生)
