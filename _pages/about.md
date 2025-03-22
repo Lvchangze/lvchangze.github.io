@@ -87,7 +87,7 @@ Spiking Convolutional Neural Networks for Text Classification \\
 <div class='paper-box-text' markdown="1">
 
 Toward Relative Positional Encoding in Spiking Transformers \\
-**Changze Lv**, Yansen Wang, Dongqi Wang, et al.
+**Changze Lv**, Yansen Wang, Dongqi Han, et al.
 - A relative positional encoding for spiking Transformers based on Gray Code.
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2501.16745) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/microsoft/SeqSNN)  
 </div>
