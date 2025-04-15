@@ -26,7 +26,7 @@ First-author publications in ICML, NeurIPS, and ICLR.
 
 Co-author publications in ACL, EMNLP, and COLING.
 
-I serve as the reviewer for conferences (ICML, ICLR, NeurIPS, ACL, IJCAI, COLING) and journals (Neural Networks).
+I serve as the reviewer for conferences (ICML, ICLR, NeurIPS, ACL, EMNLP, ICCV, IJCAI, COLING) and journals (Neural Networks).
 
 Phone/Wechat: 13967492189. Please feel free to reach out to me.
 
@@ -194,4 +194,4 @@ Zhenghua Wang\*, Yiran Ding\*, **Changze Lv**\*, et al.
 - *2019* Third Prize in the National College Student Mathematics Competition (全国大学生数学竞赛三等奖)
 
 # Welcome
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=w2UTaZyU2VVylIDbKR9XlKrB0nuQxq0EeuTgqkW9LDg&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=w2UTaZyU2VVylIDbKR9XlKrB0nuQxq0EeuTgqkW9LDg'></script>
