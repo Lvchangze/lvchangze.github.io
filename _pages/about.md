@@ -194,4 +194,4 @@ Zhenghua Wang\*, Yiran Ding\*, **Changze Lv**\*, et al.
 - *2019* Third Prize in the National College Student Mathematics Competition (全国大学生数学竞赛三等奖)
 
 # Welcome
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=w2UTaZyU2VVylIDbKR9XlKrB0nuQxq0EeuTgqkW9LDg'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=w2UTaZyU2VVylIDbKR9XlKrB0nuQxq0EeuTgqkW9LDg'></script>
