@@ -40,6 +40,7 @@ Phone/Wechat: 13967492189. Please feel free to reach out to me.
 - *2025.03 - Current*, [Shanghai AI Lab](https://www.shlab.org.cn/), AI for Science Group.
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 One paper on Multi-Modal SpikeCLIP was accepted by **Neural Network**!
 - *2024.12*: &nbsp;🎉🎉 One paper on Jailbreak of LLMs was accepted by **COLING-2025**!
 - *2024.09*: &nbsp;🎉🎉 One paper on positional encoding for SNNs was accepted by **NeurIPS-2024-Spotlight**!
 - *2024.09*: &nbsp;🎉🎉 Two papers on RAG and LLM safety were accepted by **EMNLP-2024-Main/Findings**!
@@ -80,6 +81,16 @@ Spiking Convolutional Neural Networks for Text Classification \\
 **Changze Lv**, Jianhan Xu, Xiaoqing Zheng
 - A "conversion+ fine-tuning" two-step method for training SNNs for text classification.
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/forum?id=pgU3k7QXuz0) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/Lvchangze/snn) 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Network</div><img src='../images/spikeclip.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network \\
+**Changze Lv**\*, Tianlong Li\*, Xiaoqing Zheng, et al
+- Among the first training methods for language-image multimodal SNNs.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://www.sciencedirect.com/science/article/abs/pii/S0893608025003545)
 </div>
 </div>
 
@@ -166,10 +177,6 @@ Zhenghua Wang\*, Yiran Ding\*, **Changze Lv**\*, et al.
 - ![](https://img.shields.io/badge/Arxiv--yellow) Tailoring Personality Traits in Large Language Models via Unsupervisedly-Built Personalized Lexicons
 <br> Tianlong Li, Shihan Dou, **Changze Lv**, Wenhao Liu, Jianhan Xu, Muling Wu, Zixuan Ling, Xiaoqing Zheng, Xuanjing Huang
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2310.16582)
-
-- ![](https://img.shields.io/badge/Arxiv--yellow) SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network
-<br> Tianlong Li, Wenhao Liu, **Changze Lv**, Jianhan Xu, Cenyuan Zhang, Muling Wu, Xiaoqing Zheng, Xuanjing Huang
-<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2310.06488)
 
 - ![](https://img.shields.io/badge/Arxiv--yellow) Explainable Synthetic Image Detection through Diffusion Timestep Ensembling
 <br> Yixin Wu, Feiran Zhang, Tianyuan Shi, Ruicheng Yin, Zhenghua Wang, Zhenliang Gan, Xiaohua Wang, **Changze Lv**, Xiaoqing Zheng, Xuanjing Huang
