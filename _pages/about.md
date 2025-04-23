@@ -79,17 +79,17 @@ Efficient and Effective Time-Series Forecasting with Spiking Neural Networks \\
 
 Spiking Convolutional Neural Networks for Text Classification \\
 **Changze Lv**, Jianhan Xu, Xiaoqing Zheng
-- A "conversion+ fine-tuning" two-step method for training SNNs for text classification.
+- A "conversion + fine-tuning" two-step method for training SNNs for text classification.
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/forum?id=pgU3k7QXuz0) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/Lvchangze/snn) 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Network</div><img src='../images/spikeclip.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='../images/spikeclip.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network \\
 **Changze Lv**\*, Tianlong Li\*, Xiaoqing Zheng, et al
-- Among the first training methods for language-image multimodal SNNs.
+- A method for training language-image multimodal SNNs.
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://www.sciencedirect.com/science/article/abs/pii/S0893608025003545)
 </div>
 </div>
