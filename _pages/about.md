@@ -22,11 +22,11 @@ I'm currently a Ph.D. student (from fall, 2022) at the [School of Computer Scien
 My research interests cover Brain-inspired Computing, Large Language Models, Multi-Modal LLMs, and AI for Science.
 I am currently working on **Spiking Neural Networks for Sequential Tasks** and **Biologically-Plausible Learning Algorithms**.
 
-First-author publications in ICML, NeurIPS, and ICLR.
+Led projects as first author published in ICML, NeurIPS, and ICLR.
 
-Co-author publications in ACL, EMNLP, and COLING.
+Contributed as co-author to publications in ACL, EMNLP, COLING, and IJCAI.
 
-I serve as the reviewer for conferences (ICML, ICLR, NeurIPS, ACL, EMNLP, ICCV, IJCAI, COLING) and journals (Neural Networks).
+I serve as the reviewer for conferences (ICML, ICLR, NeurIPS, ACL, EMNLP, ICCV, IJCAI, ACM MM, COLING) and journals (Neural Networks).
 
 Phone/Wechat: 13967492189. Please feel free to reach out to me.
 
@@ -40,7 +40,8 @@ Phone/Wechat: 13967492189. Please feel free to reach out to me.
 - *2025.03 - Current*, [Shanghai AI Lab](https://www.shlab.org.cn/), AI for Science Group.
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 One paper on Multi-Modal SpikeCLIP was accepted by **Neural Network**!
+- *2025.04*: &nbsp;🎉🎉 Two papers on On-device SNNs was accepted by **IJCAI 2025**!
+- *2025.04*: &nbsp;🎉🎉 One paper on Multi-Modal SpikeCLIP was accepted by **Neural Networks**!
 - *2024.12*: &nbsp;🎉🎉 One paper on Jailbreak of LLMs was accepted by **COLING-2025**!
 - *2024.09*: &nbsp;🎉🎉 One paper on positional encoding for SNNs was accepted by **NeurIPS-2024-Spotlight**!
 - *2024.09*: &nbsp;🎉🎉 Two papers on RAG and LLM safety were accepted by **EMNLP-2024-Main/Findings**!
@@ -121,7 +122,7 @@ SpikeBERT: A Language Spikformer Trained with Two-stage Knowledge Distillation f
 
 Dendritic Localized Learning: Toward Biologically Plausible Algorithm \\
 **Changze Lv**\*, Jingwen Xu\*, Yiyang Lu\*, et al.
-- A novel biologically plausible training method.
+- A new biologically plausible training method.
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2501.09976)
 </div>
 </div>
