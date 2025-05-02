@@ -20,7 +20,7 @@ redirect_from:
 I'm currently a Ph.D. student (from fall, 2022) at the [School of Computer Science](https://cs.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) and a member of the [FudanNLP Lab](https://nlp.fudan.edu.cn/), advised by A.P. [Xiaoqing Zheng (郑骁庆)](https://faculty.fudan.edu.cn/zhengxq/zh_CN/) and Prof. [Xuanjing Huang (黄萱菁)](https://xuanjing-huang.github.io/).
 
 My research interests cover Brain-inspired Computing, Large Language Models, Multi-Modal LLMs, and AI for Science.
-I am currently working on **Spiking Neural Networks for Sequential Tasks** and **Biologically-Plausible Learning Algorithms**.
+I am currently working on **Spiking Neural Networks (SNNs) for Sequential Tasks** and **Biologically-Plausible Learning Algorithms**.
 
 Led projects as first author published in ICML, NeurIPS, and ICLR.
 
@@ -40,15 +40,16 @@ Phone/Wechat: 13967492189. Please feel free to reach out to me.
 - *2025.03 - Current*, [Shanghai AI Lab](https://www.shlab.org.cn/), AI for Science Group.
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 One paper on Biologically-Plausible Learning Algorithm was accepted by **ICML 2025**!
 - *2025.04*: &nbsp;🎉🎉 Two papers on On-device SNNs was accepted by **IJCAI 2025**!
 - *2025.04*: &nbsp;🎉🎉 One paper on Multi-Modal SpikeCLIP was accepted by **Neural Networks**!
 - *2024.12*: &nbsp;🎉🎉 One paper on Jailbreak of LLMs was accepted by **COLING-2025**!
-- *2024.09*: &nbsp;🎉🎉 One paper on positional encoding for SNNs was accepted by **NeurIPS-2024-Spotlight**!
+- *2024.09*: &nbsp;🎉🎉 One paper on Positional Encoding for SNNs was accepted by **NeurIPS-2024-Spotlight**!
 - *2024.09*: &nbsp;🎉🎉 Two papers on RAG and LLM safety were accepted by **EMNLP-2024-Main/Findings**!
 - *2024.05*: &nbsp;🎉🎉 Two papers on LLM alignment and PEFT were accepted by **ACL-2024-Main**!
-- *2024.05*: &nbsp;🎉🎉 One paper on time-series forecasting with spiking neural networks was accepted by **ICML-2024**!
+- *2024.05*: &nbsp;🎉🎉 One paper on time-series forecasting with SNNs was accepted by **ICML-2024**!
 - *2023.10*: &nbsp;🎉🎉 One paper on parameter-efficient-fine-tuning was accepted by **EMNLP-2023-Findings**!
-- *2023.01*: &nbsp;🎉🎉 One paper on spiking neural networks for text classification was accepted by **ICLR-2023**!
+- *2023.01*: &nbsp;🎉🎉 One paper on SNNs for text classification was accepted by **ICLR-2023**!
 
 # 📝 Publications
 
@@ -117,7 +118,7 @@ SpikeBERT: A Language Spikformer Trained with Two-stage Knowledge Distillation f
 
 ## Brain-Inspired Learning
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv(2501.09976)</div><img src='../images/DLL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML-2025 (Poster)</div><img src='../images/DLL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Dendritic Localized Learning: Toward Biologically Plausible Algorithm \\
