@@ -40,16 +40,16 @@ Phone/Wechat: 13967492189. Please feel free to reach out to me.
 - *2025.03 - Current*, [Shanghai AI Lab](https://www.shlab.org.cn/), AI for Science Group.
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 One paper on Biologically-Plausible Learning Algorithm was accepted by **ICML 2025**!
-- *2025.04*: &nbsp;🎉🎉 Two papers on On-device SNNs was accepted by **IJCAI 2025**!
-- *2025.04*: &nbsp;🎉🎉 One paper on Multi-Modal SpikeCLIP was accepted by **Neural Networks**!
+- *2025.05*: &nbsp;🎉🎉 One paper on Biologically-Plausible Learning Algorithm was accepted by **ICML-2025**!
+- *2025.04*: &nbsp;🎉🎉 Two papers on On-device SNNs was accepted by **IJCAI-2025**!
+- *2025.04*: &nbsp;🎉🎉 One paper on Multi-Modal SpikeCLIP was accepted by **Neural-Networks**!
 - *2024.12*: &nbsp;🎉🎉 One paper on Jailbreak of LLMs was accepted by **COLING-2025**!
-- *2024.09*: &nbsp;🎉🎉 One paper on Positional Encoding for SNNs was accepted by **NeurIPS-2024-Spotlight**!
+- *2024.09*: &nbsp;🎉🎉 One paper on Positional Encoding Analysis for SNNs was accepted by **NeurIPS-2024-Spotlight**!
 - *2024.09*: &nbsp;🎉🎉 Two papers on RAG and LLM safety were accepted by **EMNLP-2024-Main/Findings**!
 - *2024.05*: &nbsp;🎉🎉 Two papers on LLM alignment and PEFT were accepted by **ACL-2024-Main**!
-- *2024.05*: &nbsp;🎉🎉 One paper on time-series forecasting with SNNs was accepted by **ICML-2024**!
-- *2023.10*: &nbsp;🎉🎉 One paper on parameter-efficient-fine-tuning was accepted by **EMNLP-2023-Findings**!
-- *2023.01*: &nbsp;🎉🎉 One paper on SNNs for text classification was accepted by **ICLR-2023**!
+- *2024.05*: &nbsp;🎉🎉 One paper on Time-Series Forecasting with SNNs was accepted by **ICML-2024**!
+- *2023.10*: &nbsp;🎉🎉 One paper on Parameter-Efficient-Fine-Tuning of LLMs was accepted by **EMNLP-2023-Findings**!
+- *2023.01*: &nbsp;🎉🎉 One paper on SNNs for Text Classification was accepted by **ICLR-2023**!
 
 # 📝 Publications
 
