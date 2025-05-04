@@ -19,7 +19,7 @@ redirect_from:
 
 I'm currently a Ph.D. student (from fall, 2022) at the [School of Computer Science](https://cs.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) and a member of the [FudanNLP Lab](https://nlp.fudan.edu.cn/), advised by A.P. [Xiaoqing Zheng (郑骁庆)](https://faculty.fudan.edu.cn/zhengxq/zh_CN/) and Prof. [Xuanjing Huang (黄萱菁)](https://xuanjing-huang.github.io/).
 
-My research interests cover Brain-inspired Computing, Large Language Models, Multi-Modal LLMs, and AI for Science.
+My research interests cover Brain-inspired Computing, Large Language Models, and AI for Science.
 I am currently working on **Spiking Neural Networks (SNNs) for Sequential Tasks** and **Biologically-Plausible Learning Algorithms**.
 
 Led projects as first author published in ICML, NeurIPS, and ICLR.
@@ -53,7 +53,17 @@ Phone/Wechat: 13967492189. Please feel free to reach out to me.
 
 # 📝 Publications
 
-## Spiking Neural Networks
+## Brain-Inspired Computing
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML-2025 (Poster)</div><img src='../images/DLL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Dendritic Localized Learning: Toward Biologically Plausible Algorithm \\
+**Changze Lv**\*, Jingwen Xu\*, Yiyang Lu\*, et al.
+- A new biologically plausible training method.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2501.09976)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 (Spotlight)</div><img src='../images/cpg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -116,17 +126,6 @@ SpikeBERT: A Language Spikformer Trained with Two-stage Knowledge Distillation f
 </div>
 </div>
 
-## Brain-Inspired Learning
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML-2025 (Poster)</div><img src='../images/DLL.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Dendritic Localized Learning: Toward Biologically Plausible Algorithm \\
-**Changze Lv**\*, Jingwen Xu\*, Yiyang Lu\*, et al.
-- A new biologically plausible training method.
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2501.09976)
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv(2406.16062)</div><img src='../images/bio_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -199,7 +198,7 @@ Zhenghua Wang\*, Yiran Ding\*, **Changze Lv**\*, et al.
 - *2022* Excellent graduates of Fudan University (复旦大学优秀毕业生)
 - *2021* Shanghai Scholarship (上海市奖学金)
 - *2021* First Prize for Outstanding Undergraduate Student Scholarship, Fudan University (复旦大学一等奖学金)
-- *2020* Meritorious Prize in the Mathematical Contest in Modeling/Interdisciplinary Contest In Modeling (美国数学建模大赛M奖)
+- *2020* Meritorious Prize in the Mathematical Contest in Modeling/Interdisciplinary Contest in Modeling (美国数学建模大赛M奖)
 - *2019* Third Prize in the National College Student Mathematics Competition (全国大学生数学竞赛三等奖)
 
 # Welcome
