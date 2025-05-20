@@ -61,7 +61,7 @@ Phone/Wechat: 13967492189. Please feel free to reach out to me.
 Dendritic Localized Learning: Toward Biologically Plausible Algorithm \\
 **Changze Lv**\*, Jingwen Xu\*, Yiyang Lu\*, et al.
 - A new biologically plausible training method.
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2501.09976)
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2501.09976) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/Lvchangze/Dendritic-Localized-Learning) 
 </div>
 </div>
 
