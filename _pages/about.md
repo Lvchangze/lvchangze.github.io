@@ -102,7 +102,7 @@ Spiking Convolutional Neural Networks for Text Classification \\
 SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network \\
 **Changze Lv**\*, Tianlong Li\*, Xiaoqing Zheng, et al
 - A method for training language-image multimodal SNNs.
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://www.sciencedirect.com/science/article/abs/pii/S0893608025003545) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](ttps://github.com/Lvchangze/SpikeCLIP)
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://www.sciencedirect.com/science/article/abs/pii/S0893608025003545) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/Lvchangze/SpikeCLIP)
 </div>
 </div>
 
