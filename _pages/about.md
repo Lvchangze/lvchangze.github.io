@@ -40,6 +40,7 @@ Phone/Wechat: 13967492189. Please feel free to reach out to me.
 - *2025.03 - Current*, [Shanghai AI Lab](https://www.shlab.org.cn/), AI for Science Group.
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 Four papers on LLMs-based recommendation and data packing were accepted by **ACL-2025-Main/Findings**!
 - *2025.05*: &nbsp;🎉🎉 One paper on Biologically-Plausible Learning Algorithm was accepted by **ICML-2025**!
 - *2025.04*: &nbsp;🎉🎉 Two papers on On-device SNNs was accepted by **IJCAI-2025**!
 - *2025.04*: &nbsp;🎉🎉 One paper on Multi-Modal SpikeCLIP was accepted by **Neural-Networks**!
