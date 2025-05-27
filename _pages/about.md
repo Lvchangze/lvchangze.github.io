@@ -28,7 +28,7 @@ Contributed as co-author to publications in ACL, EMNLP, COLING, and IJCAI.
 
 I serve as the reviewer for conferences (ICML, ICLR, NeurIPS, ACL, EMNLP, ICCV, IJCAI, ACM MM, COLING) and journals (Neural Networks).
 
-Phone/Wechat: 13967492189. Please feel free to reach out to me.
+Phone/Wechat/Telegram: (+86) 13967492189. Please feel free to reach out to me.
 
 # 📖 Educations
 - *2018.09 - 2022.06*, Bachelor in Software Engineering (School of Software, Fudan University)
