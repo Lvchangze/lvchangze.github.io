@@ -40,7 +40,7 @@ Phone/Wechat/Telegram: (+86) 13967492189. Please feel free to reach out to me.
 - *2025.03 - Current*, [Shanghai AI Lab](https://www.shlab.org.cn/), AI for Science Group.
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Four papers on LLMs-based recommendation and data packing were accepted by **ACL-2025-Main/Findings**!
+- *2025.05*: &nbsp;🎉🎉 Five papers on LLMs were accepted by **ACL-2025-Main/Findings/Demo**!
 - *2025.05*: &nbsp;🎉🎉 One paper on Biologically-Plausible Learning Algorithm was accepted by **ICML-2025**!
 - *2025.04*: &nbsp;🎉🎉 Two papers on On-device SNNs was accepted by **IJCAI-2025**!
 - *2025.04*: &nbsp;🎉🎉 One paper on Multi-Modal SpikeCLIP was accepted by **Neural-Networks**!
@@ -152,6 +152,18 @@ Zhenghua Wang\*, Yiran Ding\*, **Changze Lv**\*, et al.
 
 ## Others
 
+- ![](https://img.shields.io/badge/IJCAI--2025-darkblue) ECC-SNN: Cost-Effective Edge-Cloud Collaboration for Spiking Neural Networks
+<br> Di Yu, **Changze Lv**, Xin Du, Linshan Jiang, Wentao Tong, Zhenyu Liao, Xiaoqing Zheng, Shuiguang Deng
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2505.20835)
+
+- ![](https://img.shields.io/badge/ACL--2025--Findings-darkblue) Improving Continual Pre-training Through Seamless Data Packing
+<br> Ruicheng Yin, Xuan Gao, **Changze Lv**, Xiaohua Wang, Xiaoqing Zheng, Xuanjing Huang
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2505.22018)
+
+- ![](https://img.shields.io/badge/ACL--2025--Demo-darkblue) Multi-Programming Language Sandbox for LLMs
+<br> Shihan Dou, Jiazheng Zhang, Jianxiang Zang, Yunbo Tao, Haoxiang Jia, Shichun Liu, Yuming Yang, Shenxi Wu, Shaoqing Zhang, Muling Wu, **Changze Lv**, Limao Xiong, Wenyu Zhan, Lin Zhang, Rongxiang Weng, Jingang Wang, Xunliang Cai, Yueming Wu, Ming Wen, Rui Zheng, Tao Ji, Yixin Cao, Tao Gui, Xipeng Qiu, Qi Zhang, Xuanjing Huang
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2410.23074)
+
 - ![](https://img.shields.io/badge/COLING--2025-darkblue) Revisiting Jailbreaking for Large Language Models: A Representation Engineering Perspective
 <br> Tianlong Li, Zhenghua Wang, Wenhao Liu, Muling Wu, Shihan Dou, **Changze Lv**, Xiaohua Wang, Xiaoqing Zheng, Xuanjing Huang
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2401.06824)
@@ -188,9 +200,9 @@ Zhenghua Wang\*, Yiran Ding\*, **Changze Lv**\*, et al.
 <br> Cenyuan Zhang, Xiaoqing Zheng, Ruicheng Yin, Shujie Geng, Jianhan Xu, Xuan Gao, **Changze Lv**, Zixuan Ling, Xuanjing Huang, Miao Cao, Jianfeng Feng
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://www.biorxiv.org/content/biorxiv/early/2024/03/20/2024.03.19.585656.full.pdf)
 
-- ![](https://img.shields.io/badge/Arxiv--yellow) Multi-Programming Language Sandbox for LLMs
-<br> Shihan Dou, Jiazheng Zhang, Jianxiang Zang, Yunbo Tao, Haoxiang Jia, Shichun Liu, Yuming Yang, Shenxi Wu, Shaoqing Zhang, Muling Wu, **Changze Lv**, Limao Xiong, Wenyu Zhan, Lin Zhang, Rongxiang Weng, Jingang Wang, Xunliang Cai, Yueming Wu, Ming Wen, Rui Zheng, Tao Ji, Yixin Cao, Tao Gui, Xipeng Qiu, Qi Zhang, Xuanjing Huang
-<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2410.23074)
+- ![](https://img.shields.io/badge/Arxiv--yellow) RECAST: Strengthening LLMs' Complex Instruction Following with Constraint-Verifiable Data
+<br> Wenhao Liu, Zhengkang Guo, Mingchen Xie, Jingwen Xu, Zisu Huang, Muzhao Tian, Jianhan Xu, Muling Wu, Xiaohua Wang, **Changze Lv**, He-Da Wang, Hu Yao, Xiaoqing Zheng, Xuanjing Huang
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2505.19030)
 
 # 🎖 Honors and Awards
 - *2025* Stars of Tomorrow Internship Program of Microsoft Research Asia (微软亚洲研究院“明日之星”)
