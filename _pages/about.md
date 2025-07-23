@@ -52,6 +52,18 @@ Phone/Wechat/Telegram: (+86) 13967492189. Please feel free to reach out to me.
 - *2023.10*: &nbsp;🎉🎉 One paper on Parameter-Efficient-Fine-Tuning of LLMs was accepted by **EMNLP-2023-Findings**!
 - *2023.01*: &nbsp;🎉🎉 One paper on SNNs for Text Classification was accepted by **ICLR-2023**!
 
+# 📚 Technical Reports
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AMix-1</div><img src='../images/AMix1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+AMix-1: A Pathway to Test-Time Scalable Protein Foundation Model
+- Shanghai AI Lab & Tsinghua AIR GenSI Lab
+- A powerful protein foundation model built on Bayesian Flow Networks and engined by a systematic training methodology, encompassing pretraining scaling laws, emergent capability analysis, in-context learning strategy, and test-time scaling algorithm. **I was responsible for pretraining, scaling laws, and emergent ability.**
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2507.08920) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://gensi-thuair.github.io/AMix/) 
+</div>
+</div>
+
 # 📝 Publications
 
 ## Brain-Inspired Computing
