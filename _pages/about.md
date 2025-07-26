@@ -19,7 +19,7 @@ redirect_from:
 
 I'm currently a Ph.D. student (from fall 2022) at the [School of Computer Science](https://cs.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) and a member of the [FudanNLP Lab](https://nlp.fudan.edu.cn/), supervised by A.P. [Xiaoqing Zheng (郑骁庆)](https://faculty.fudan.edu.cn/zhengxq/zh_CN/) and Prof. [Xuanjing Huang (黄萱菁)](https://xuanjing-huang.github.io/).
 
-My research interests cover Brain-inspired Computing, Large Language Models, Time-Series Analysis, and AI for Science.
+My research interests include Brain-inspired Computing, Large Language Models, Time Series Analysis, and AI for Science.
 I am currently working on Generative Protein Foundation Models, Spiking Neural Networks (SNNs) for Sequential Tasks, and Biologically-Plausible Learning Algorithms.
 
 I led first-author projects published at ICML, NeurIPS, and ICLR, and contributed as a co-author to papers at ACL, EMNLP, COLING, and IJCAI.
@@ -117,16 +117,6 @@ SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network \\
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv(2501.16745)</div><img src='../images/REP_SNN.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Toward Relative Positional Encoding in Spiking Transformers \\
-**Changze Lv**, Yansen Wang, Dongqi Han, et al.
-- A relative positional encoding for spiking Transformers based on Gray Code.
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2501.16745) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/microsoft/SeqSNN)  
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2025</div><img src='../images/spikebert.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -134,6 +124,16 @@ SpikeBERT: A Language Spikformer Trained with Two-stage Knowledge Distillation f
 **Changze Lv**, Tianlong Li, Jianhan Xu, et al.
 - A spiking language model for language understanding based on Spikformer.
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2308.15122.pdf) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/Lvchangze/SpikeBERT) 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv(2501.16745)</div><img src='../images/REP_SNN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Toward Relative Positional Encoding in Spiking Transformers \\
+**Changze Lv**, Yansen Wang, Dongqi Han, et al.
+- A relative positional encoding for spiking Transformers based on Gray Code.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2501.16745) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/microsoft/SeqSNN)  
 </div>
 </div>
 
