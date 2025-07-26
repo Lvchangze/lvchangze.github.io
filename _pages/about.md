@@ -20,11 +20,9 @@ redirect_from:
 I'm currently a Ph.D. student (from fall, 2022) at the [School of Computer Science](https://cs.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) and a member of the [FudanNLP Lab](https://nlp.fudan.edu.cn/), advised by A.P. [Xiaoqing Zheng (郑骁庆)](https://faculty.fudan.edu.cn/zhengxq/zh_CN/) and Prof. [Xuanjing Huang (黄萱菁)](https://xuanjing-huang.github.io/).
 
 My research interests cover Brain-inspired Computing, Large Language Models, Time-Series Analysis， and AI for Science.
-I am currently working on Spiking Neural Networks (SNNs) for Sequential Tasks, Biologically-Plausible Learning Algorithms, and Generative Models for Protein Sequences.
+I am currently working on Generative Protein Foundation Models, Spiking Neural Networks (SNNs) for Sequential Tasks, Biologically-Plausible Learning Algorithms.
 
-Led projects as first author published in ICML, NeurIPS, and ICLR.
-
-Contributed as co-author to publications in ACL, EMNLP, COLING, and IJCAI.
+I led first-author projects published at ICML, NeurIPS, and ICLR, and contributed as a co-author to papers at ACL, EMNLP, COLING, and IJCAI.
 
 I serve as the reviewer for conferences (ICML, ICLR, NeurIPS, ACL, EMNLP, ICCV, IJCAI, ACM MM, COLING) and journals (Neural Networks).
 
@@ -33,11 +31,11 @@ Phone/Wechat/Telegram: (+86) 13967492189. Please feel free to reach out to me.
 # 📖 Educations
 - *2018.09 - 2022.06*, Bachelor in Software Engineering (School of Software, Fudan University)
 - *2019.09 - 2022.06*, Bachelor in Economics (School of Economics and Management, Fudan University, Second Degree)
-- *2022.09 - Current*, Ph.D. Student in Computer Science (School of Computer Science, Fudan University).
+- *2022.09 - 2027.06 (Expected)*, Ph.D. Student in Computer Science (School of Computer Science, Fudan University).
 
 # 💻 Internships
-- *2023.11 - 2025.02*, [Microsoft Research Asia](https://www.msra.cn/), Artificial Intelligence & Machine Learning Group.
-- *2025.03 - Current*, [Shanghai AI Lab](https://www.shlab.org.cn/), AI for Science Group.
+- *2023.11 - 2025.02*, [Microsoft Research Asia](https://www.msra.cn/). Artificial Intelligence & Machine Learning Group. Research on time-series forecasting. Supervised by [Yansen Wang](https://scholar.google.com/citations?user=Hvbzb1kAAAAJ&hl=en), [Dongqi Han](https://scholar.google.com.hk/citations?user=3V_9fRUAAAAJ&hl=zh-CN), and [Dongsheng Li](https://scholar.google.com/citations?user=VNg5rA8AAAAJ&hl=zh-CN).
+- *2025.03 - Current*, [Shanghai AI Lab](https://www.shlab.org.cn/). AI for Science Group. Research on protein foundation models. Supervised by (Jiangtao Feng)[https://scholar.google.com/citations?user=7ufSFeIAAAAJ&hl=en], and [Hao Zhou](https://zhouh.github.io/).
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 Five papers on LLMs were accepted by **ACL-2025-Main/Findings/Demo**!
@@ -164,9 +162,18 @@ Zhenghua Wang\*, Yiran Ding\*, **Changze Lv**\*, et al.
 
 ## Others
 
-- ![](https://img.shields.io/badge/IJCAI--2025-darkblue) ECC-SNN: Cost-Effective Edge-Cloud Collaboration for Spiking Neural Networks
-<br> Di Yu, **Changze Lv**, Xin Du, Linshan Jiang, Wentao Tong, Zhenyu Liao, Xiaoqing Zheng, Shuiguang Deng
-<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2505.20835)
+- ![](https://img.shields.io/badge/ACL--2025--Main-darkblue) Beyond Single Labels: Improving Conversational Recommendation through LLM-Powered Data Augmentation
+<br> Haozhe Xu, Xiaohua Wang, **Changze Lv**, Xiaoqing Zheng
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)]()
+
+- ![](https://img.shields.io/badge/ACL--2025--Findings-darkblue) TripTailor: A Real-World Benchmark for Personalized Travel Planning
+<br> Kaimin Wang, Yuanzhe Shen, **Changze Lv**, Xiaoqing Zheng, Xuanjing Huang
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)]()
+
+- ![](https://img.shields.io/badge/ACL--2025--Findings-darkblue) 	
+Tell Me What You Don’t Know: Enhancing Refusal Capabilities of Role-Playing Agents via Representation Space Analysis and Editing
+<br> Wenhao Liu, Siyu An, Junru Lu, Muling Wu, Tianlong Li, Xiaohua Wang, **Changze Lv**, Xiaoqing Zheng, di yin, Xing Sun, Xuanjing Huang
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)]()
 
 - ![](https://img.shields.io/badge/ACL--2025--Findings-darkblue) Improving Continual Pre-training Through Seamless Data Packing
 <br> Ruicheng Yin, Xuan Gao, **Changze Lv**, Xiaohua Wang, Xiaoqing Zheng, Xuanjing Huang
@@ -175,6 +182,14 @@ Zhenghua Wang\*, Yiran Ding\*, **Changze Lv**\*, et al.
 - ![](https://img.shields.io/badge/ACL--2025--Demo-darkblue) Multi-Programming Language Sandbox for LLMs
 <br> Shihan Dou, Jiazheng Zhang, Jianxiang Zang, Yunbo Tao, Haoxiang Jia, Shichun Liu, Yuming Yang, Shenxi Wu, Shaoqing Zhang, Muling Wu, **Changze Lv**, Limao Xiong, Wenyu Zhan, Lin Zhang, Rongxiang Weng, Jingang Wang, Xunliang Cai, Yueming Wu, Ming Wen, Rui Zheng, Tao Ji, Yixin Cao, Tao Gui, Xipeng Qiu, Qi Zhang, Xuanjing Huang
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2410.23074)
+
+- ![](https://img.shields.io/badge/IJCAI--2025-darkblue) ECC-SNN: Cost-Effective Edge-Cloud Collaboration for Spiking Neural Networks
+<br> Di Yu, **Changze Lv**, Xin Du, Linshan Jiang, Wentao Tong, Zhenyu Liao, Xiaoqing Zheng, Shuiguang Deng
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2505.20835)
+
+- ![](https://img.shields.io/badge/IJCAI--2025-darkblue) Cost-Effective On-Device Sequential Recommendation with Spiking Neural Networks
+<br> Di Yu, **Changze Lv**, Xin Du, Linshan Jiang, Qin Yin, Wentao Tong, Xiaoqing Zheng, Shuiguang Deng
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)]()
 
 - ![](https://img.shields.io/badge/COLING--2025-darkblue) Revisiting Jailbreaking for Large Language Models: A Representation Engineering Perspective
 <br> Tianlong Li, Zhenghua Wang, Wenhao Liu, Muling Wu, Shihan Dou, **Changze Lv**, Xiaohua Wang, Xiaoqing Zheng, Xuanjing Huang
