@@ -24,7 +24,7 @@ I am currently working on Generative Protein Foundation Models, Spiking Neural N
 
 I led first-author projects published at ICML, NeurIPS, and ICLR, and contributed as a co-author to papers at ACL, EMNLP, COLING, and IJCAI.
 
-I serve as the reviewer for conferences (ICML, ICLR, NeurIPS, ACL, EMNLP, ICCV, IJCAI, ACM MM, COLING) and journals (Neural Networks).
+I serve as the reviewer for conferences (ICML, ICLR, NeurIPS, ACL, EMNLP, ICCV, IJCAI, AAAI, ACM MM, COLING) and journals (Neural Networks).
 
 Phone/Wechat/Telegram: (+86) 13967492189. Please feel free to reach out to me.
 
