@@ -19,7 +19,7 @@ redirect_from:
 
 I'm currently a Ph.D. student (from fall 2022) at the [School of Computer Science](https://cs.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) and a member of the [FudanNLP Lab](https://nlp.fudan.edu.cn/), supervised by A.P. [Xiaoqing Zheng (郑骁庆)](https://faculty.fudan.edu.cn/zhengxq/zh_CN/) and Prof. [Xuanjing Huang (黄萱菁)](https://xuanjing-huang.github.io/).
 
-My research interests cover Brain-inspired Computing, Large Language Models, Time-Series Analysis， and AI for Science.
+My research interests cover Brain-inspired Computing, Large Language Models, Time-Series Analysis, and AI for Science.
 I am currently working on Generative Protein Foundation Models, Spiking Neural Networks (SNNs) for Sequential Tasks, Biologically-Plausible Learning Algorithms.
 
 I led first-author projects published at ICML, NeurIPS, and ICLR, and contributed as a co-author to papers at ACL, EMNLP, COLING, and IJCAI.
