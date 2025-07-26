@@ -215,6 +215,14 @@ Tell Me What You Don’t Know: Enhancing Refusal Capabilities of Role-Playing Ag
 <br> Muling Wu, Wenhao Liu, Jianhan Xu, **Changze Lv**, Zixuan Ling, Tianlong Li, Longtao Huang, Xiaoqing Zheng, Xuan-Jing Huang
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://aclanthology.org/2023.findings-emnlp.584.pdf) | [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/mlwu22/TPT)
 
+- ![](https://img.shields.io/badge/Arxiv--yellow) Edge Intelligence with Spiking Neural Networks
+<br> Shuiguang Deng, Di Yu, **Changze Lv**, Xin Du, Linshan Jiang, Xiaofan Zhao, Wentao Tong, Xiaoqing Zheng, Weijia Fang, Peng Zhao, Gang Pan, Schahram Dustdar, Albert Y Zomaya
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2507.14069)
+
+- ![](https://img.shields.io/badge/Arxiv--yellow) Progressive Mastery: Customized Curriculum Learning with Guided Prompting for Mathematical Reasoning
+<br> Muling Wu, Qi Qian, Wenhao Liu, Xiaohua Wang, Zisu Huang, Di Liang, LI Miao, Shihan Dou, **Changze Lv**, Zhenghua Wang, Zhibo Xu, Lina Chen, Tianlong Li, Xiaoqing Zheng, Xuanjing Huang
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2506.04065)
+
 - ![](https://img.shields.io/badge/Arxiv--yellow) Tailoring Personality Traits in Large Language Models via Unsupervisedly-Built Personalized Lexicons
 <br> Tianlong Li, Shihan Dou, **Changze Lv**, Wenhao Liu, Jianhan Xu, Muling Wu, Zixuan Ling, Xiaoqing Zheng, Xuanjing Huang
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2310.16582)
