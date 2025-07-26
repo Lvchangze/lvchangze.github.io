@@ -24,7 +24,7 @@ I am currently working on Generative Protein Foundation Models, Spiking Neural N
 
 I led first-author projects published at ICML, NeurIPS, and ICLR, and contributed as a co-author to papers at ACL, EMNLP, COLING, and IJCAI.
 
-I serve as the reviewer for conferences (ICML, ICLR, NeurIPS, ACL, EMNLP, ICCV, IJCAI, AAAI, ACM MM, COLING) and journals (Neural Networks).
+I serve as the reviewer for conferences (ICML, ICLR, NeurIPS, ACL, EMNLP, ICCV, IJCAI, AAAI, ACM MM, COLING) and journals (IEEE Transactions on Affective Computing, Neural Networks).
 
 Phone/Wechat/Telegram: (+86) 13967492189. Please feel free to reach out to me.
 
@@ -127,7 +127,7 @@ Toward Relative Positional Encoding in Spiking Transformers \\
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv(2308.15122)</div><img src='../images/spikebert.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2025</div><img src='../images/spikebert.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 SpikeBERT: A Language Spikformer Trained with Two-stage Knowledge Distillation from BERT \\
