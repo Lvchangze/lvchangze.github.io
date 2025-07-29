@@ -58,7 +58,7 @@ Phone/Wechat/Telegram: (+86) 13967492189. Please feel free to reach out to me.
 AMix-1: A Pathway to Test-Time Scalable Protein Foundation Model
 - Shanghai AI Lab & Tsinghua AIR GenSI Lab
 - A powerful protein foundation model built on Bayesian Flow Networks and engined by a systematic training methodology, encompassing pretraining scaling laws, emergent capability analysis, in-context learning strategy, and test-time scaling algorithm. **I was responsible for pretraining, scaling laws, and emergent ability.**
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2507.08920) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://gensi-thuair.github.io/AMix/) 
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2507.08920) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/GenSI-THUAIR/AMix-1) 
 </div>
 </div>
 
@@ -172,7 +172,7 @@ Zhenghua Wang\*, Yiran Ding\*, **Changze Lv**\*, et al.
 
 - ![](https://img.shields.io/badge/ACL--2025--Findings-darkblue) 	
 Tell Me What You Don’t Know: Enhancing Refusal Capabilities of Role-Playing Agents via Representation Space Analysis and Editing
-<br> Wenhao Liu, Siyu An, Junru Lu, Muling Wu, Tianlong Li, Xiaohua Wang, **Changze Lv**, Xiaoqing Zheng, di yin, Xing Sun, Xuanjing Huang
+<br> Wenhao Liu, Siyu An, Junru Lu, Muling Wu, Tianlong Li, Xiaohua Wang, **Changze Lv**, Xiaoqing Zheng, Di Yin, Xing Sun, Xuanjing Huang
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)]()
 
 - ![](https://img.shields.io/badge/ACL--2025--Findings-darkblue) Improving Continual Pre-training Through Seamless Data Packing
