@@ -35,7 +35,7 @@ Phone/Wechat/Telegram: (+86) 13967492189. Please feel free to reach out to me.
 
 # 💻 Internships
 - *2023.11 - 2025.02*, [Microsoft Research Asia](https://www.msra.cn/). Artificial Intelligence & Machine Learning Group. Research on time-series forecasting. Supervised by [Yansen Wang](https://scholar.google.com/citations?user=Hvbzb1kAAAAJ&hl=en), [Dongqi Han](https://scholar.google.com.hk/citations?user=3V_9fRUAAAAJ&hl=zh-CN), and [Dongsheng Li](https://scholar.google.com/citations?user=VNg5rA8AAAAJ&hl=zh-CN).
-- *2025.03 - Current*, [Shanghai AI Lab](https://www.shlab.org.cn/). AI for Science Group. Research on protein foundation models. Supervised by [Jiangtao Feng](https://scholar.google.com/citations?user=7ufSFeIAAAAJ&hl=en), and [Hao Zhou](https://zhouh.github.io/).
+- *2025.03 - Current*, [Shanghai AI Lab](https://www.shlab.org.cn/). AI for Science Group. Research on protein foundation models. Supervised by [Lihao Wang](https://github.com/leowang1217), [Jiangtao Feng](https://scholar.google.com/citations?user=7ufSFeIAAAAJ&hl=en), and [Hao Zhou](https://zhouh.github.io/).
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 Five papers on LLMs were accepted by **ACL-2025-Main/Findings/Demo**!
@@ -242,12 +242,10 @@ Tell Me What You Don’t Know: Enhancing Refusal Capabilities of Role-Playing Ag
 # 🎖 Honors and Awards
 - *2025* Stars of Tomorrow Internship Program of Microsoft Research Asia (微软亚洲研究院“明日之星”)
 - *2024* Outstanding Student Leader of Fudan University (复旦大学优秀学生干部)
-- *2023* Outstanding Student of Fudan University (复旦大学优秀学生)
 - *2022* Excellent graduates of Fudan University (复旦大学优秀毕业生)
 - *2021* Shanghai Scholarship (上海市奖学金)
 - *2021* First Prize for Outstanding Undergraduate Student Scholarship, Fudan University (复旦大学一等奖学金)
 - *2020* Meritorious Prize in the Mathematical Contest in Modeling/Interdisciplinary Contest in Modeling (美国数学建模大赛M奖)
-- *2019* Third Prize in the National College Student Mathematics Competition (全国大学生数学竞赛三等奖)
 
 # Welcome
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=w2UTaZyU2VVylIDbKR9XlKrB0nuQxq0EeuTgqkW9LDg'></script>
