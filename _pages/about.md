@@ -57,7 +57,7 @@ Phone/Wechat/Telegram: (+86) 13967492189. Please feel free to reach out to me.
 
 AMix-1: A Pathway to Test-Time Scalable Protein Foundation Model
 - Shanghai AI Lab & Tsinghua AIR GenSI Lab
-- A powerful protein foundation model built on Bayesian Flow Networks and engined by a systematic training methodology, encompassing pretraining scaling laws, emergent capability analysis, in-context learning strategy, and test-time scaling algorithm. **I was responsible for pretraining, scaling laws, and emergent ability.**
+- A powerful protein foundation model built on Bayesian Flow Networks and engined by a systematic training methodology, encompassing pretraining scaling laws, emergent capability analysis, in-context learning strategy, and test-time scaling algorithm. I was responsible for pretraining, scaling laws, and emergent ability.
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2507.08920) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/GenSI-THUAIR/AMix-1) 
 </div>
 </div>
@@ -225,9 +225,17 @@ Tell Me What You Don’t Know: Enhancing Refusal Capabilities of Role-Playing Ag
 <br> Muling Wu, Wenhao Liu, Jianhan Xu, **Changze Lv**, Zixuan Ling, Tianlong Li, Longtao Huang, Xiaoqing Zheng, Xuan-Jing Huang
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://aclanthology.org/2023.findings-emnlp.584.pdf) | [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/mlwu22/TPT)
 
+- ![](https://img.shields.io/badge/Arxiv--yellow) SpikeSTAG: Spatial-Temporal Forecasting via GNN-SNN Collaboration
+<br> Bang Hu, **Changze Lv**, Mingjie Li, Yunpeng Liu, Xiaoqing Zheng, Fengzhe Zhang, Fan Zhang
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2507.14069)
+
+- ![](https://img.shields.io/badge/Arxiv--yellow) STF: Shallow-Level Temporal Feedback to Enhance Spiking Transformers
+<br> Zeqi Zheng, Zizheng Zhu, Yingchao Yu, Yanchen Huang, **Changze Lv**, Junfeng Tang, Zhaofei Yu, Yaochu Jin
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2508.00387?)
+
 - ![](https://img.shields.io/badge/Arxiv--yellow) Edge Intelligence with Spiking Neural Networks
 <br> Shuiguang Deng, Di Yu, **Changze Lv**, Xin Du, Linshan Jiang, Xiaofan Zhao, Wentao Tong, Xiaoqing Zheng, Weijia Fang, Peng Zhao, Gang Pan, Schahram Dustdar, Albert Y Zomaya
-<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2507.14069)
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2508.02069)
 
 - ![](https://img.shields.io/badge/Arxiv--yellow) Progressive Mastery: Customized Curriculum Learning with Guided Prompting for Mathematical Reasoning
 <br> Muling Wu, Qi Qian, Wenhao Liu, Xiaohua Wang, Zisu Huang, Di Liang, LI Miao, Shihan Dou, **Changze Lv**, Zhenghua Wang, Zhibo Xu, Lina Chen, Tianlong Li, Xiaoqing Zheng, Xuanjing Huang
