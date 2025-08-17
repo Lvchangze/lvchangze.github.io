@@ -62,6 +62,16 @@ AMix-1: A Pathway to Test-Time Scalable Protein Foundation Model
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAG</div><img src='../images/rag.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Searching for Best Practices in Retrieval-Augmented Generation
+- FudanNLP Group
+- This study investigates the contribution of each component and provides insights into optimal RAG practices through extensive experimentation.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2407.01219) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/FudanDNN-NLP/RAG) 
+</div>
+</div>
+
 # 📝 Publications
 
 ## Brain-Inspired Computing
