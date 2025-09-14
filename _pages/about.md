@@ -38,6 +38,7 @@ Phone/Wechat/Telegram: (+86) 13967492189. Please feel free to reach out to me.
 - *2025.03 - Current*, [Shanghai AI Lab](https://www.shlab.org.cn/). AI for Science Group. Research on protein foundation models. Supervised by [Lihao Wang](https://github.com/leowang1217), [Jiangtao Feng](https://scholar.google.com/citations?user=7ufSFeIAAAAJ&hl=en), and [Hao Zhou](https://zhouh.github.io/).
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Two papers on LLMs were accepted by **EMNLP-2025-Findings**!
 - *2025.05*: &nbsp;🎉🎉 Five papers on LLMs were accepted by **ACL-2025-Main/Findings/Demo**!
 - *2025.05*: &nbsp;🎉🎉 One paper on Biologically-Plausible Learning Algorithm was accepted by **ICML-2025**!
 - *2025.04*: &nbsp;🎉🎉 Two papers on On-device SNNs was accepted by **IJCAI-2025**!
@@ -172,6 +173,14 @@ Zhenghua Wang\*, Yiran Ding\*, **Changze Lv**\*, et al.
 
 ## Others
 
+- ![](https://img.shields.io/badge/EMNLP--2025--Findings-darkblue) Enhancing Model Privacy in Federated Learning with Random Masking and Quantization
+<br> Zhibo Xu, JianHao Zhu, Jingwen Xu, **Changze Lv**, Zhenghua Wang, Zisu Huang, Xiaohua Wang, Muling Wu, Qi Qian, Xiaoqing Zheng, Xuanjing Huang
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2508.18911)
+
+- ![](https://img.shields.io/badge/EMNLP--2025--Findings-darkblue) UPLex: Fine-Grained Personality Control in Large Language Models via Unsupervised Lexical Modulation
+<br> Tianlong, Wenhao Liu, Muling Wu, Shihan Dou, Zhenghua Wang, **Changze Lv**, Xiaohua Wang, Xiaoqing Zheng, Xuanjing Huang
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2310.16582v3)
+
 - ![](https://img.shields.io/badge/ACL--2025--Main-darkblue) Beyond Single Labels: Improving Conversational Recommendation through LLM-Powered Data Augmentation
 <br> Haozhe Xu, Xiaohua Wang, **Changze Lv**, Xiaoqing Zheng
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)]()
@@ -240,10 +249,6 @@ Tell Me What You Don’t Know: Enhancing Refusal Capabilities of Role-Playing Ag
 - ![](https://img.shields.io/badge/Arxiv--yellow) Progressive Mastery: Customized Curriculum Learning with Guided Prompting for Mathematical Reasoning
 <br> Muling Wu, Qi Qian, Wenhao Liu, Xiaohua Wang, Zisu Huang, Di Liang, LI Miao, Shihan Dou, **Changze Lv**, Zhenghua Wang, Zhibo Xu, Lina Chen, Tianlong Li, Xiaoqing Zheng, Xuanjing Huang
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2506.04065)
-
-- ![](https://img.shields.io/badge/Arxiv--yellow) Tailoring Personality Traits in Large Language Models via Unsupervisedly-Built Personalized Lexicons
-<br> Tianlong Li, Shihan Dou, **Changze Lv**, Wenhao Liu, Jianhan Xu, Muling Wu, Zixuan Ling, Xiaoqing Zheng, Xuanjing Huang
-<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2310.16582)
 
 - ![](https://img.shields.io/badge/Arxiv--yellow) Explainable Synthetic Image Detection through Diffusion Timestep Ensembling
 <br> Yixin Wu, Feiran Zhang, Tianyuan Shi, Ruicheng Yin, Zhenghua Wang, Zhenliang Gan, Xiaohua Wang, **Changze Lv**, Xiaoqing Zheng, Xuanjing Huang
