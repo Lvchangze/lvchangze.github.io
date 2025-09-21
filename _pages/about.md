@@ -77,9 +77,19 @@ Searching for Best Practices in Retrieval-Augmented Generation
 
 ## Brain-Inspired Computing
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 (Spotlight)</div><img src='../images/REP_SNN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Toward Relative Positional Encoding in Spiking Transformers \\
+**Changze Lv**, Yansen Wang, Dongqi Han, et al.
+- A relative positional encoding for spiking Transformers based on Gray Code and logarithm.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2501.16745) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/microsoft/SeqSNN)  
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML-2025 (Poster)</div><img src='../images/DLL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+  
 Dendritic Localized Learning: Toward Biologically Plausible Algorithm \\
 **Changze Lv**\*, Jingwen Xu\*, Yiyang Lu\*, et al.
 - A new biologically plausible training method.
@@ -89,7 +99,7 @@ Dendritic Localized Learning: Toward Biologically Plausible Algorithm \\
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 (Spotlight)</div><img src='../images/cpg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+  
 Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators \\
 **Changze Lv**, Dongqi Han, Yansen Wang, et al.
 - A bio-inspired novel positional encoding method for spiking neural networks.
@@ -99,18 +109,17 @@ Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern G
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML-2024 (Poster)</div><img src='../images/snn_ts.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+  
 Efficient and Effective Time-Series Forecasting with Spiking Neural Networks \\
 **Changze Lv**, Yansen Wang, Dongqi Han, et al.
 - A framework for spiking neural networks in time-series forecasting tasks.
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2402.01533.pdf) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/microsoft/SeqSNN) 
-
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR-2023 (Poster)</div><img src='../images/spikingTextCNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+  
 Spiking Convolutional Neural Networks for Text Classification \\
 **Changze Lv**, Jianhan Xu, Xiaoqing Zheng
 - A "conversion + fine-tuning" two-step method for training SNNs for text classification.
@@ -120,7 +129,7 @@ Spiking Convolutional Neural Networks for Text Classification \\
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='../images/spikeclip.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+  
 SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network \\
 **Changze Lv**\*, Tianlong Li\*, Xiaoqing Zheng, et al
 - A method for training language-image multimodal SNNs.
@@ -130,7 +139,7 @@ SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network \\
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2025</div><img src='../images/spikebert.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+  
 SpikeBERT: A Language Spikformer Trained with Two-stage Knowledge Distillation from BERT \\
 **Changze Lv**, Tianlong Li, Jianhan Xu, et al.
 - A spiking language model for language understanding based on Spikformer.
@@ -138,20 +147,10 @@ SpikeBERT: A Language Spikformer Trained with Two-stage Knowledge Distillation f
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv(2501.16745)</div><img src='../images/REP_SNN.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Toward Relative Positional Encoding in Spiking Transformers \\
-**Changze Lv**, Yansen Wang, Dongqi Han, et al.
-- A relative positional encoding for spiking Transformers based on Gray Code.
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2501.16745) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/microsoft/SeqSNN)  
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv(2406.16062)</div><img src='../images/bio_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+  
 Towards Biologically Plausible Computing: A Comprehensive Comparison \\
 **Changze Lv**, Yufei Gu, Zhengkang Guo, et al.
 - A comprehensive comparison of various brain-inspired training methods.
