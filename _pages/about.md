@@ -150,6 +150,16 @@ SpikeBERT: A Language Spikformer Trained with Two-stage Knowledge Distillation f
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv (2509.20284)</div><img src='../images/bsd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Biologically Plausible Learning via Bidirectional Spike-Based Distillation \\
+**Changze Lv**\*, Yifei Wang\*, Yanxun Zhang\*, et al.
+- Bidirectional Spike-based Distillation (BSD), a novel learning algorithm that jointly trains a feedforward and a backward SNN.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2509.20284)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv(2406.16062)</div><img src='../images/bio_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
