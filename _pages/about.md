@@ -186,7 +186,7 @@ Zhenghua Wang\*, Yiran Ding\*, **Changze Lv**\*, et al.
 
 - ![](https://img.shields.io/badge/EMNLP--2025--Findings-darkblue) Enhancing Model Privacy in Federated Learning with Random Masking and Quantization
 <br> Zhibo Xu, JianHao Zhu, Jingwen Xu, **Changze Lv**, Zhenghua Wang, Zisu Huang, Xiaohua Wang, Muling Wu, Qi Qian, Xiaoqing Zheng, Xuanjing Huang
-<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2508.18911)
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2508.18911) | [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/zb2313/FedQSN)
 
 - ![](https://img.shields.io/badge/EMNLP--2025--Findings-darkblue) UPLex: Fine-Grained Personality Control in Large Language Models via Unsupervised Lexical Modulation
 <br> Tianlong, Wenhao Liu, Muling Wu, Shihan Dou, Zhenghua Wang, **Changze Lv**, Xiaohua Wang, Xiaoqing Zheng, Xuanjing Huang
