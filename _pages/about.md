@@ -247,7 +247,7 @@ Tell Me What You Don’t Know: Enhancing Refusal Capabilities of Role-Playing Ag
 
 - ![](https://img.shields.io/badge/Arxiv--yellow) SpikeSTAG: Spatial-Temporal Forecasting via GNN-SNN Collaboration
 <br> Bang Hu, **Changze Lv**, Mingjie Li, Yunpeng Liu, Xiaoqing Zheng, Fengzhe Zhang, Fan Zhang
-<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2507.14069)
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2508.02069)
 
 - ![](https://img.shields.io/badge/Arxiv--yellow) STF: Shallow-Level Temporal Feedback to Enhance Spiking Transformers
 <br> Zeqi Zheng, Zizheng Zhu, Yingchao Yu, Yanchen Huang, **Changze Lv**, Junfeng Tang, Zhaofei Yu, Yaochu Jin
@@ -255,7 +255,7 @@ Tell Me What You Don’t Know: Enhancing Refusal Capabilities of Role-Playing Ag
 
 - ![](https://img.shields.io/badge/Arxiv--yellow) Edge Intelligence with Spiking Neural Networks
 <br> Shuiguang Deng, Di Yu, **Changze Lv**, Xin Du, Linshan Jiang, Xiaofan Zhao, Wentao Tong, Xiaoqing Zheng, Weijia Fang, Peng Zhao, Gang Pan, Schahram Dustdar, Albert Y Zomaya
-<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2508.02069)
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2507.14069)
 
 - ![](https://img.shields.io/badge/Arxiv--yellow) Progressive Mastery: Customized Curriculum Learning with Guided Prompting for Mathematical Reasoning
 <br> Muling Wu, Qi Qian, Wenhao Liu, Xiaohua Wang, Zisu Huang, Di Liang, LI Miao, Shihan Dou, **Changze Lv**, Zhenghua Wang, Zhibo Xu, Lina Chen, Tianlong Li, Xiaoqing Zheng, Xuanjing Huang
