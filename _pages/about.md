@@ -198,7 +198,7 @@ Zhenghua Wang\*, Yiran Ding\*, **Changze Lv**\*, et al.
 
 - ![](https://img.shields.io/badge/ACL--2025--Findings-darkblue) TripTailor: A Real-World Benchmark for Personalized Travel Planning
 <br> Kaimin Wang, Yuanzhe Shen, **Changze Lv**, Xiaoqing Zheng, Xuanjing Huang
-<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://aclanthology.org/2025.findings-acl.503.pdf)
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://aclanthology.org/2025.findings-acl.503.pdf) | [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/swxkfm/TripTailor)
 
 - ![](https://img.shields.io/badge/ACL--2025--Findings-darkblue) 	
 Tell Me What You Don’t Know: Enhancing Refusal Capabilities of Role-Playing Agents via Representation Space Analysis and Editing
