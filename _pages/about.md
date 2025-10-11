@@ -194,20 +194,20 @@ Zhenghua Wang\*, Yiran Ding\*, **Changze Lv**\*, et al.
 
 - ![](https://img.shields.io/badge/ACL--2025--Main-darkblue) Beyond Single Labels: Improving Conversational Recommendation through LLM-Powered Data Augmentation
 <br> Haozhe Xu, Xiaohua Wang, **Changze Lv**, Xiaoqing Zheng
-<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)]()
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2508.05657) | [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/xu1110/FNSCRS)
 
 - ![](https://img.shields.io/badge/ACL--2025--Findings-darkblue) TripTailor: A Real-World Benchmark for Personalized Travel Planning
 <br> Kaimin Wang, Yuanzhe Shen, **Changze Lv**, Xiaoqing Zheng, Xuanjing Huang
-<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)]()
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://aclanthology.org/2025.findings-acl.503.pdf)
 
 - ![](https://img.shields.io/badge/ACL--2025--Findings-darkblue) 	
 Tell Me What You Don’t Know: Enhancing Refusal Capabilities of Role-Playing Agents via Representation Space Analysis and Editing
 <br> Wenhao Liu, Siyu An, Junru Lu, Muling Wu, Tianlong Li, Xiaohua Wang, **Changze Lv**, Xiaoqing Zheng, Di Yin, Xing Sun, Xuanjing Huang
-<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)]()
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://aclanthology.org/2025.findings-acl.311.pdf)
 
 - ![](https://img.shields.io/badge/ACL--2025--Findings-darkblue) Improving Continual Pre-training Through Seamless Data Packing
 <br> Ruicheng Yin, Xuan Gao, **Changze Lv**, Xiaohua Wang, Xiaoqing Zheng, Xuanjing Huang
-<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2505.22018)
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2505.22018) | [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/InfernusWIND/Seamless-Packing)
 
 - ![](https://img.shields.io/badge/ACL--2025--Demo-darkblue) Multi-Programming Language Sandbox for LLMs
 <br> Shihan Dou, Jiazheng Zhang, Jianxiang Zang, Yunbo Tao, Haoxiang Jia, Shichun Liu, Yuming Yang, Shenxi Wu, Shaoqing Zhang, Muling Wu, **Changze Lv**, Limao Xiong, Wenyu Zhan, Lin Zhang, Rongxiang Weng, Jingang Wang, Xunliang Cai, Yueming Wu, Ming Wen, Rui Zheng, Tao Ji, Yixin Cao, Tao Gui, Xipeng Qiu, Qi Zhang, Xuanjing Huang
@@ -215,11 +215,11 @@ Tell Me What You Don’t Know: Enhancing Refusal Capabilities of Role-Playing Ag
 
 - ![](https://img.shields.io/badge/IJCAI--2025-darkblue) ECC-SNN: Cost-Effective Edge-Cloud Collaboration for Spiking Neural Networks
 <br> Di Yu, **Changze Lv**, Xin Du, Linshan Jiang, Wentao Tong, Zhenyu Liao, Xiaoqing Zheng, Shuiguang Deng
-<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2505.20835)
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://www.ijcai.org/proceedings/2025/0768.pdf) | [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/AmazingDD/ECC-SNN)
 
 - ![](https://img.shields.io/badge/IJCAI--2025-darkblue) Cost-Effective On-Device Sequential Recommendation with Spiking Neural Networks
 <br> Di Yu, **Changze Lv**, Xin Du, Linshan Jiang, Qin Yin, Wentao Tong, Xiaoqing Zheng, Shuiguang Deng
-<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)]()
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://www.ijcai.org/proceedings/2025/0398.pdf) | [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/AmazingDD/serenRec)
 
 - ![](https://img.shields.io/badge/COLING--2025-darkblue) Revisiting Jailbreaking for Large Language Models: A Representation Engineering Perspective
 <br> Tianlong Li, Zhenghua Wang, Wenhao Liu, Muling Wu, Shihan Dou, **Changze Lv**, Xiaohua Wang, Xiaoqing Zheng, Xuanjing Huang
