@@ -282,4 +282,5 @@ Tell Me What You Don’t Know: Enhancing Refusal Capabilities of Role-Playing Ag
 - *2020* Meritorious Prize in the Mathematical Contest in Modeling/Interdisciplinary Contest in Modeling (美国数学建模大赛M奖)
 
 # Welcome
-<a href="https://clustrmaps.com/site/1c4mm"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=w2UTaZyU2VVylIDbKR9XlKrB0nuQxq0EeuTgqkW9LDg&cl=ffffff" /></a>
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=w2UTaZyU2VVylIDbKR9XlKrB0nuQxq0EeuTgqkW9LDg&cl=ffffff&w=a"></script>
