@@ -39,6 +39,7 @@ Phone/Wechat/Telegram: (+86) 13967492189. Please feel free to reach out to me.
 - *2025.10 - Current*, [Tencent](https://www.tencent.com/zh-cn/index.html). Qingyun Plan (青云计划) at WeChat AI Group. Research on agentic reinforcement learning.
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 One paper on AIGC detection was accepted by **AAAI-2026**!
 - *2025.09*: &nbsp;🎉🎉 One paper on Relative Positional Encoding for SNNs was accepted by **NeurIPS-2025-Spotlight**!
 - *2025.09*: &nbsp;🎉🎉 Two papers on LLMs safety and personality were accepted by **EMNLP-2025-Findings**!
 - *2025.05*: &nbsp;🎉🎉 Five papers on LLMs were accepted by **ACL-2025-Main/Findings/Demo**!
@@ -184,6 +185,10 @@ Zhenghua Wang\*, Yiran Ding\*, **Changze Lv**\*, et al.
 
 ## Others
 
+- ![](https://img.shields.io/badge/AAAI--2026-darkblue) Explainable Synthetic Image Detection through Diffusion Timestep Ensembling
+<br> Yixin Wu, Feiran Zhang, Tianyuan Shi, Ruicheng Yin, Zhenghua Wang, Zhenliang Gan, Xiaohua Wang, **Changze Lv**, Xiaoqing Zheng, Xuanjing Huang
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2503.06201)
+
 - ![](https://img.shields.io/badge/EMNLP--2025--Findings-darkblue) Enhancing Model Privacy in Federated Learning with Random Masking and Quantization
 <br> Zhibo Xu, JianHao Zhu, Jingwen Xu, **Changze Lv**, Zhenghua Wang, Zisu Huang, Xiaohua Wang, Muling Wu, Qi Qian, Xiaoqing Zheng, Xuanjing Huang
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2508.18911) | [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/zb2313/FedQSN)
@@ -261,10 +266,6 @@ Tell Me What You Don’t Know: Enhancing Refusal Capabilities of Role-Playing Ag
 <br> Muling Wu, Qi Qian, Wenhao Liu, Xiaohua Wang, Zisu Huang, Di Liang, LI Miao, Shihan Dou, **Changze Lv**, Zhenghua Wang, Zhibo Xu, Lina Chen, Tianlong Li, Xiaoqing Zheng, Xuanjing Huang
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2506.04065)
 
-- ![](https://img.shields.io/badge/Arxiv--yellow) Explainable Synthetic Image Detection through Diffusion Timestep Ensembling
-<br> Yixin Wu, Feiran Zhang, Tianyuan Shi, Ruicheng Yin, Zhenghua Wang, Zhenliang Gan, Xiaohua Wang, **Changze Lv**, Xiaoqing Zheng, Xuanjing Huang
-<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2503.06201)
-
 - ![](https://img.shields.io/badge/Bioxiv--yellow) Decoding Continuous Character-based Language from Non-invasive Brain Recordings
 <br> Cenyuan Zhang, Xiaoqing Zheng, Ruicheng Yin, Shujie Geng, Jianhan Xu, Xuan Gao, **Changze Lv**, Zixuan Ling, Xuanjing Huang, Miao Cao, Jianfeng Feng
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://www.biorxiv.org/content/biorxiv/early/2024/03/20/2024.03.19.585656.full.pdf)
@@ -273,12 +274,16 @@ Tell Me What You Don’t Know: Enhancing Refusal Capabilities of Role-Playing Ag
 <br> Wenhao Liu, Zhengkang Guo, Mingchen Xie, Jingwen Xu, Zisu Huang, Muzhao Tian, Jianhan Xu, Muling Wu, Xiaohua Wang, **Changze Lv**, He-Da Wang, Hu Yao, Xiaoqing Zheng, Xuanjing Huang
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2505.19030)
 
+- ![](https://img.shields.io/badge/Arxiv--yellow) SAFA-SNN: Sparsity-Aware On-Device Few-Shot Class-Incremental Learning with Fast-Adaptive Structure of Spiking Neural Network
+<br> Huijing Zhang, Muyang Cao, Linshan Jiang, Xin Du, Di Yu, **Changze Lv**, Shuiguang Deng
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2510.03648?)
+
 # 🎖 Honors and Awards
+- *2025* National Scholarship (国家奖学金)
 - *2025* Stars of Tomorrow Internship Program of Microsoft Research Asia (微软亚洲研究院“明日之星”)
 - *2024* Outstanding Student Leader of Fudan University (复旦大学优秀学生干部)
 - *2022* Excellent graduates of Fudan University (复旦大学优秀毕业生)
 - *2021* Shanghai Scholarship (上海市奖学金)
-- *2021* First Prize for Outstanding Undergraduate Student Scholarship, Fudan University (复旦大学一等奖学金)
 - *2020* Meritorious Prize in the Mathematical Contest in Modeling/Interdisciplinary Contest in Modeling (美国数学建模大赛M奖)
 
 # Welcome
