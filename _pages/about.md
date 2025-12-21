@@ -39,6 +39,7 @@ Phone/Wechat/Telegram: (+86) 13967492189. Please feel free to reach out to me.
 - *2025.09 - Current*, [Tencent](https://www.tencent.com/zh-cn/index.html). Qingyun Plan (青云计划) at WeChat AI Group. Research on agentic reinforcement learning. Supervised by [Le Tian](https://openreview.net/profile?id=%7ELe_Tian1).
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 One paper on Pretrained Spiking Language Model SpikeBERT was accepted by **Neural-Networks**!
 - *2025.12*: &nbsp;🎉🎉 One paper on SNN Time Parallelism and Asynchronous Pipeline was accepted by **InfoCom-2026**!
 - *2025.11*: &nbsp;🎉🎉 One paper on AIGC detection was accepted by **AAAI-2026**!
 - *2025.09*: &nbsp;🎉🎉 One paper on Relative Positional Encoding for SNNs was accepted by **NeurIPS-2025-Spotlight**!
@@ -141,7 +142,7 @@ SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network \\
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2025</div><img src='../images/spikebert.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='../images/spikebert.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 SpikeBERT: A Language Spikformer Trained with Two-stage Knowledge Distillation from BERT \\
