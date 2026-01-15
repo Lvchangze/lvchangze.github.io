@@ -39,7 +39,7 @@ Phone/Wechat/Telegram: (+86) 13967492189. Please feel free to reach out to me.
 - *2025.09 - Current*, [Tencent](https://www.tencent.com/zh-cn/index.html). Qingyun Plan (青云计划) at WeChat AI Group. Research on agentic reinforcement learning. Supervised by [Le Tian](https://openreview.net/profile?id=%7ELe_Tian1).
 
 # 🔥 News
-- *2026.01*  &nbsp;🎉🎉 One paper on Neuromorphic Edge Sensing was accepted by **WWW-2026**!
+- *2026.01*: &nbsp;🎉🎉 One paper on Neuromorphic Edge Sensing was accepted by **WWW-2026**!
 - *2025.12*: &nbsp;🎉🎉 One paper on Pretrained Spiking Language Model SpikeBERT was accepted by **Neural-Networks**!
 - *2025.12*: &nbsp;🎉🎉 One paper on SNN Time Parallelism and Asynchronous Pipeline was accepted by **InfoCom-2026**!
 - *2025.11*: &nbsp;🎉🎉 One paper on AIGC detection was accepted by **AAAI-2026**!
