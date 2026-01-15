@@ -19,12 +19,12 @@ redirect_from:
 
 I'm currently a Ph.D. student (from fall 2022) at the [School of Computer Science](https://cs.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) and a member of the [FudanNLP Lab](https://nlp.fudan.edu.cn/), supervised by A.P. [Xiaoqing Zheng (郑骁庆)](https://faculty.fudan.edu.cn/zhengxq/zh_CN/) and Prof. [Xuanjing Huang (黄萱菁)](https://xuanjing-huang.github.io/).
 
-My research interests include Brain-inspired Computing, LLM Reasoning, Time Series Analysis, and AI for Science.
+My research interests include Brain-inspired Computing, Agentic RL, LLM Reasoning, Time Series Analysis, and AI for Science.
 I am currently working on Agentic Reinforcement Learning, Generative Protein Foundation Models, and Biologically-Plausible Learning Algorithms.
 
-I have led first-author research published at ICML, NeurIPS, and ICLR, and have also contributed as a co-author to works appearing at ACL, EMNLP, COLING, and IJCAI.
+I have led first-author research published at ICML, NeurIPS, and ICLR, and have also contributed as a co-author to works appearing at ACL, EMNLP, WWW, COLING, InfoCom, and IJCAI.
 
-I serve as the reviewer for conferences (ICML, ICLR, NeurIPS, ACL, EMNLP, ICCV, IJCAI, AAAI, ACM MM, COLING) and journals (IEEE Transactions on Affective Computing, Neural Networks).
+I serve as the reviewer for conferences (ICML, ICLR, NeurIPS, ACL, EMNLP, ICCV, IJCAI, AAAI, ACM MM, COLING) and journals (IEEE Transactions on Affective Computing, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Cognitive and Developmental Systems, Neural Networks).
 
 Phone/Wechat/Telegram: (+86) 13967492189. Please feel free to reach out to me.
 
@@ -39,6 +39,7 @@ Phone/Wechat/Telegram: (+86) 13967492189. Please feel free to reach out to me.
 - *2025.09 - Current*, [Tencent](https://www.tencent.com/zh-cn/index.html). Qingyun Plan (青云计划) at WeChat AI Group. Research on agentic reinforcement learning. Supervised by [Le Tian](https://openreview.net/profile?id=%7ELe_Tian1).
 
 # 🔥 News
+- *2026.01*  &nbsp;🎉🎉 One paper on Neuromorphic Edge Sensing was accepted by **WWW-2026**!
 - *2025.12*: &nbsp;🎉🎉 One paper on Pretrained Spiking Language Model SpikeBERT was accepted by **Neural-Networks**!
 - *2025.12*: &nbsp;🎉🎉 One paper on SNN Time Parallelism and Asynchronous Pipeline was accepted by **InfoCom-2026**!
 - *2025.11*: &nbsp;🎉🎉 One paper on AIGC detection was accepted by **AAAI-2026**!
