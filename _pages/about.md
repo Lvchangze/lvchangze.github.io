@@ -41,17 +41,11 @@ Please feel free to contact me via Phone / WeChat / Telegram: **(+86) 1396749218
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 Three papers on LLM Complex Instruction Following and Bio-learning Algorithms were accepted by **ICLR-2026**!
-- *2026.01*: &nbsp;🎉🎉 One paper on Neuromorphic Edge Sensing was accepted by **WWW-2026**!
-- *2025.12*: &nbsp;🎉🎉 One paper on Pretrained Spiking Language Model SpikeBERT was accepted by **Neural-Networks**!
-- *2025.12*: &nbsp;🎉🎉 One paper on SNN Time Parallelism and Asynchronous Pipeline was accepted by **InfoCom-2026**!
 - *2025.11*: &nbsp;🎉🎉 One paper on AIGC detection was accepted by **AAAI-2026**!
 - *2025.09*: &nbsp;🎉🎉 One paper on Relative Positional Encoding for SNNs was accepted by **NeurIPS-2025-Spotlight**!
 - *2025.09*: &nbsp;🎉🎉 Two papers on LLMs safety and personality were accepted by **EMNLP-2025-Findings**!
 - *2025.05*: &nbsp;🎉🎉 Five papers on LLMs were accepted by **ACL-2025-Main/Findings/Demo**!
 - *2025.05*: &nbsp;🎉🎉 One paper on Biologically-Plausible Learning Algorithm was accepted by **ICML-2025**!
-- *2025.04*: &nbsp;🎉🎉 Two papers on On-device SNNs was accepted by **IJCAI-2025**!
-- *2025.04*: &nbsp;🎉🎉 One paper on Multi-Modal SpikeCLIP was accepted by **Neural-Networks**!
-- *2024.12*: &nbsp;🎉🎉 One paper on Jailbreak of LLMs was accepted by **COLING-2025**!
 - *2024.09*: &nbsp;🎉🎉 One paper on Positional Encoding Analysis for SNNs was accepted by **NeurIPS-2024-Spotlight**!
 - *2024.09*: &nbsp;🎉🎉 Two papers on RAG and LLM safety were accepted by **EMNLP-2024-Main/Findings**!
 - *2024.05*: &nbsp;🎉🎉 Two papers on LLM alignment and PEFT were accepted by **ACL-2024-Main**!
@@ -95,7 +89,7 @@ Biologically Plausible Learning via Bidirectional Spike-Based Distillation \\
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 (Spotlight)</div><img src='../images/REP_SNN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS-2025 (Spotlight)</div><img src='../images/REP_SNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 Toward Relative Positional Encoding in Spiking Transformers \\
@@ -115,7 +109,7 @@ Dendritic Localized Learning: Toward Biologically Plausible Algorithm \\
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 (Spotlight)</div><img src='../images/cpg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS-2024 (Spotlight)</div><img src='../images/cpg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators \\
