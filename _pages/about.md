@@ -26,7 +26,8 @@ I have led first-author research published at ICML, NeurIPS, and ICLR, and have 
 
 I serve as the reviewer for conferences (ICML, ICLR, NeurIPS, ACL, EMNLP, ICCV, IJCAI, AAAI, ACM MM, COLING) and journals (IEEE Transactions on Affective Computing, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Cognitive and Developmental Systems, Neural Networks).
 
-Phone/Wechat/Telegram: (+86) 13967492189. Please feel free to reach out to me.
+I am expected to graduate in 2027.6, and I am currently seeking opportunities through **talent programs** in the 2026 Fall recruitment cycle.
+Please feel free to contact me via Phone / WeChat / Telegram: **(+86) 13967492189**.
 
 # 📖 Educations
 - *2018.09 - 2022.06*, Bachelor in Software Engineering (School of Software, Fudan University)
@@ -39,6 +40,7 @@ Phone/Wechat/Telegram: (+86) 13967492189. Please feel free to reach out to me.
 - *2025.09 - Current*, [Tencent](https://www.tencent.com/zh-cn/index.html). Qingyun Program (青云计划). Research on agentic reinforcement learning. Supervised by [Le Tian](https://openreview.net/profile?id=%7ELe_Tian1).
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 Three papers on LLM Complex Instruction Following and Bio-learning Algorithms were accepted by **ICLR-2026**!
 - *2026.01*: &nbsp;🎉🎉 One paper on Neuromorphic Edge Sensing was accepted by **WWW-2026**!
 - *2025.12*: &nbsp;🎉🎉 One paper on Pretrained Spiking Language Model SpikeBERT was accepted by **Neural-Networks**!
 - *2025.12*: &nbsp;🎉🎉 One paper on SNN Time Parallelism and Asynchronous Pipeline was accepted by **InfoCom-2026**!
@@ -82,6 +84,16 @@ Searching for Best Practices in Retrieval-Augmented Generation
 # 📝 Publications
 
 ## Brain-Inspired Computing
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR-2026 (Poster)</div><img src='../images/bsd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Biologically Plausible Learning via Bidirectional Spike-Based Distillation \\
+**Changze Lv**\*, Yifei Wang\*, Yanxun Zhang\*, et al.
+- Bidirectional Spike-based Distillation (BSD), a novel learning algorithm that jointly trains a feedforward and a backward SNN.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2509.20284)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 (Spotlight)</div><img src='../images/REP_SNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -153,17 +165,6 @@ SpikeBERT: A Language Spikformer Trained with Two-stage Knowledge Distillation f
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv (2509.20284)</div><img src='../images/bsd.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-Biologically Plausible Learning via Bidirectional Spike-Based Distillation \\
-**Changze Lv**\*, Yifei Wang\*, Yanxun Zhang\*, et al.
-- Bidirectional Spike-based Distillation (BSD), a novel learning algorithm that jointly trains a feedforward and a backward SNN.
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2509.20284)
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv(2406.16062)</div><img src='../images/bio_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -187,6 +188,14 @@ Zhenghua Wang\*, Yiran Ding\*, **Changze Lv**\*, et al.
 </div>
 
 ## Others
+
+- ![](https://img.shields.io/badge/ICLR--2026-darkblue) RECAST: Strengthening LLMs' Complex Instruction Following with Constraint-Verifiable Data
+<br> Wenhao Liu, Zhengkang Guo, Mingchen Xie, Jingwen Xu, Zisu Huang, Muzhao Tian, Jianhan Xu, Muling Wu, Xiaohua Wang, **Changze Lv**, He-Da Wang, Hu Yao, Xiaoqing Zheng, Xuanjing Huang
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2505.19030)
+
+- ![](https://img.shields.io/badge/ICLR--2026-darkblue) SAFA-SNN: Sparsity-Aware On-Device Few-Shot Class-Incremental Learning with Fast-Adaptive Structure of Spiking Neural Network
+<br> Huijing Zhang, Muyang Cao, Linshan Jiang, Xin Du, Di Yu, **Changze Lv**, Shuiguang Deng
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2510.03648?)
 
 - ![](https://img.shields.io/badge/AAAI--2026-darkblue) Explainable Synthetic Image Detection through Diffusion Timestep Ensembling
 <br> Yixin Wu, Feiran Zhang, Tianyuan Shi, Ruicheng Yin, Zhenghua Wang, Zhenliang Gan, Xiaohua Wang, **Changze Lv**, Xiaoqing Zheng, Xuanjing Huang
@@ -272,14 +281,6 @@ Tell Me What You Don’t Know: Enhancing Refusal Capabilities of Role-Playing Ag
 - ![](https://img.shields.io/badge/Bioxiv--yellow) Decoding Continuous Character-based Language from Non-invasive Brain Recordings
 <br> Cenyuan Zhang, Xiaoqing Zheng, Ruicheng Yin, Shujie Geng, Jianhan Xu, Xuan Gao, **Changze Lv**, Zixuan Ling, Xuanjing Huang, Miao Cao, Jianfeng Feng
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://www.biorxiv.org/content/biorxiv/early/2024/03/20/2024.03.19.585656.full.pdf)
-
-- ![](https://img.shields.io/badge/Arxiv--yellow) RECAST: Strengthening LLMs' Complex Instruction Following with Constraint-Verifiable Data
-<br> Wenhao Liu, Zhengkang Guo, Mingchen Xie, Jingwen Xu, Zisu Huang, Muzhao Tian, Jianhan Xu, Muling Wu, Xiaohua Wang, **Changze Lv**, He-Da Wang, Hu Yao, Xiaoqing Zheng, Xuanjing Huang
-<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2505.19030)
-
-- ![](https://img.shields.io/badge/Arxiv--yellow) SAFA-SNN: Sparsity-Aware On-Device Few-Shot Class-Incremental Learning with Fast-Adaptive Structure of Spiking Neural Network
-<br> Huijing Zhang, Muyang Cao, Linshan Jiang, Xin Du, Di Yu, **Changze Lv**, Shuiguang Deng
-<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2510.03648?)
 
 # 🎖 Honors and Awards
 - *2025* National Scholarship (国家奖学金)
