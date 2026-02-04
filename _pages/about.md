@@ -179,7 +179,7 @@ Learning Query-Specific Rubrics from Human Preferences for DeepResearch Report G
 - A pipeline for training query-specific rubric generators.
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2602.03619)
 </div>
-</div
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv(2503.04355)</div><img src='../images/layer-wise-PE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
