@@ -22,11 +22,12 @@ I'm currently a Ph.D. student (from fall 2022) at the [School of Computer Scienc
 My research interests include Brain-inspired Computing, Agentic RL, LLM Reasoning, Time Series Analysis, and AI for Science.
 I am currently working on Agentic Reinforcement Learning, Generative Protein Foundation Models, and Biologically-Plausible Learning Algorithms.
 
-I have led first-author research published at ICML, NeurIPS, and ICLR, and have also contributed as a co-author to works appearing at ACL, EMNLP, WWW, COLING, InfoCom, and IJCAI.
+I have led first-author research published at ICML, NeurIPS, ICLR, and ACL, and have also contributed as a co-author to works appearing at EMNLP, WWW, COLING, InfoCom, and IJCAI.
 
 I serve as the reviewer for conferences (ICML, ICLR, NeurIPS, ACL, EMNLP, ICCV, IJCAI, AAAI, ACM MM, COLING) and journals (IEEE Transactions on Affective Computing, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Cognitive and Developmental Systems, Neural Networks).
 
-I am expected to graduate in 2027.6, and I am currently seeking opportunities through **talent programs** in the 2026 Fall recruitment cycle.
+I am expected to graduate in 2027.06, and **I am currently on the job market**!
+
 Please feel free to contact me via Phone / WeChat / Telegram: **(+86) 13967492189**.
 
 # 📖 Educations
@@ -37,9 +38,10 @@ Please feel free to contact me via Phone / WeChat / Telegram: **(+86) 1396749218
 # 💻 Internships
 - *2023.11 - 2025.02*, [Microsoft Research Asia](https://www.msra.cn/). Artificial Intelligence & Machine Learning Group. Research on time-series forecasting. Supervised by [Yansen Wang](https://scholar.google.com/citations?user=Hvbzb1kAAAAJ&hl=en), [Dongqi Han](https://scholar.google.com.hk/citations?user=3V_9fRUAAAAJ&hl=zh-CN), and [Dongsheng Li](https://scholar.google.com/citations?user=VNg5rA8AAAAJ&hl=zh-CN).
 - *2025.03 - 2025.09*, [Shanghai AI Lab](https://www.shlab.org.cn/). AI for Science Group. Research on protein foundation models. Supervised by [Lihao Wang](https://github.com/leowang1217), [Jiangtao Feng](https://scholar.google.com/citations?user=7ufSFeIAAAAJ&hl=en), and [Hao Zhou](https://zhouh.github.io/).
-- *2025.09 - Current*, [Tencent](https://www.tencent.com/zh-cn/index.html). Qingyun Program (青云计划). Research on agentic reinforcement learning. Supervised by [Le Tian](https://openreview.net/profile?id=%7ELe_Tian1).
+- *2025.09 - Current*, [Tencent](https://www.tencent.com/zh-cn/index.html). Qingyun Program (青云计划). Research on agentic reinforcement learning.
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 Four papers on Agent Memory and RoPE Scaling were accepted by **ACL-2026-Main/Findings**!
 - *2026.01*: &nbsp;🎉🎉 Three papers on LLM Complex Instruction Following and Bio-learning Algorithms were accepted by **ICLR-2026**!
 - *2025.11*: &nbsp;🎉🎉 One paper on AIGC detection was accepted by **AAAI-2026**!
 - *2025.09*: &nbsp;🎉🎉 One paper on Relative Positional Encoding for SNNs was accepted by **NeurIPS-2025-Spotlight**!
@@ -171,6 +173,16 @@ Towards Biologically Plausible Computing: A Comprehensive Comparison \\
 
 ## Large Language Models
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-2026-Findings</div><img src='../images/layer-wise-PE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Mitigating Position Bias in Transformers via Layer-Specific Positional Embedding Scaling \\
+Zhenghua Wang\*, Yiran Ding\*, **Changze Lv**\*, et al.
+- A layer-specific positional encoding scaling method.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2503.04355)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv(2602.03619)</div><img src='../images/rubric_generator.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -178,16 +190,6 @@ Learning Query-Specific Rubrics from Human Preferences for DeepResearch Report G
 **Changze Lv**, Jie Zhou, Wentao Zhao, et al.
 - A pipeline for training query-specific rubric generators.
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2602.03619)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv(2503.04355)</div><img src='../images/layer-wise-PE.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Layer-Specific Scaling of Positional Encodings for Superior Long-Context Modeling \\
-Zhenghua Wang\*, Yiran Ding\*, **Changze Lv**\*, et al.
-- A layer-specific positional encoding scaling method.
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2503.04355)
 </div>
 </div>
 
