@@ -289,6 +289,7 @@ Tell Me What You Don’t Know: Enhancing Refusal Capabilities of Role-Playing Ag
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://www.biorxiv.org/content/biorxiv/early/2024/03/20/2024.03.19.585656.full.pdf)
 
 # 🎖 Honors and Awards
+- *2026* Optiver AI Ph.D. Scholarship
 - *2025* National Scholarship (国家奖学金)
 - *2025* Stars of Tomorrow Internship Program of Microsoft Research Asia (微软亚洲研究院“明日之星”)
 - *2024* Outstanding Student Leader of Fudan University (复旦大学优秀学生干部)
