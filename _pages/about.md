@@ -223,7 +223,7 @@ Learning Query-Specific Rubrics from Human Preferences for DeepResearch Report G
 <br> Feiran Zhang, Yixin Wu, Zhenghua Wang, Xiaohua Wang, **Changze Lv**, Xuanjing Huang, Xiaoqing Zheng
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/pdf?id=rm4xQoIHHA)
 
-- ![](https://img.shields.io/badge/ACL--2026--Main-darkblue) Mitigating Hallucinations in VLMs: Enhancing Visual Attention via Head-Wise Perturbation
+- ![](https://img.shields.io/badge/ACL--2026--Findings-darkblue) Mitigating Hallucinations in VLMs: Enhancing Visual Attention via Head-Wise Perturbation
 <br> Zhenghua Wang, Yixin Wu, Feiran Zhang, Qi Qian, **Changze Lv**, Xuanjing Huang, Xiaoqing Zheng
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/pdf?id=8RoGMPC3CA)
 
