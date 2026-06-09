@@ -24,7 +24,7 @@ I am currently working on Agentic Reinforcement Learning, Generative Protein Fou
 
 I have led first-author research published at ICML, NeurIPS, ICLR, and ACL, and have also contributed as a co-author to works appearing at EMNLP, WWW, COLING, InfoCom, and IJCAI.
 
-I serve as the reviewer for conferences (ICML, ICLR, NeurIPS, ACL, EMNLP, ICCV, IJCAI, AAAI, ACM MM, COLING) and journals (IEEE Transactions on Affective Computing, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Cognitive and Developmental Systems, Neural Networks).
+I serve as the Area Chair for ACL and ENMNLP, and the Reviewer for conferences (ICML, ICLR, NeurIPS, ACL, EMNLP, ICCV, IJCAI, AAAI, ACM MM, COLING) and journals (IEEE Transactions on Affective Computing, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Cognitive and Developmental Systems, Neural Networks).
 
 I am expected to graduate in 2027.06, and **I am currently on the job market**!
 
@@ -57,12 +57,32 @@ Please feel free to contact me via Phone / WeChat / Telegram: **(+86) 1396749218
 
 # 📚 Technical Reports
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CLBench-Life</div><img src='../images/AMix1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+CL-bench Life: Can Language Models Learn from Real-Life Context?
+- Tencent Hunyuan, LLM Department
+- A fully human-curated benchmark comprising 405 context-task pairs and 5348 verification rubrics, covering common real-life scenarios.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2604.27043) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/Tencent-Hunyuan/CL-bench) 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AMix-2</div><img src='../images/amix2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+AMix-2: Establishing Protein as a Native Modality in Large Language Models
+- Shanghai AI Lab & Tsinghua AIR GenSI Lab
+- A protein-text foundation model that establishes protein as a native modality in large language models.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2605.30963)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AMix-1</div><img src='../images/AMix1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 AMix-1: A Pathway to Test-Time Scalable Protein Foundation Model
 - Shanghai AI Lab & Tsinghua AIR GenSI Lab
-- A powerful protein foundation model built on Bayesian Flow Networks and engined by a systematic training methodology, encompassing pretraining scaling laws, emergent capability analysis, in-context learning strategy, and test-time scaling algorithm. I was responsible for pretraining, scaling laws, and emergent ability.
+- A powerful protein foundation model built on Bayesian Flow Networks and engined by a systematic training methodology, encompassing pretraining scaling laws, emergent capability analysis, in-context learning strategy, and test-time scaling algorithm.
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2507.08920) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/GenSI-THUAIR/AMix-1) 
 </div>
 </div>
@@ -194,6 +214,18 @@ Learning Query-Specific Rubrics from Human Preferences for DeepResearch Report G
 </div>
 
 ## Others
+
+- ![](https://img.shields.io/badge/ACL--2026--Main-darkblue) Controllable Memory Usage: Balancing Anchoring and Innovation in Long-Term Human–Agent Interaction
+<br> Zisu Huang, Muzhao Tian, Xiaohua Wang, Jingwen Xu, Zhengkang Guo, Qi Qian, Kaitao Song, Jiakang Yuan, **Changze Lv**, Xiaoqing Zheng
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/pdf?id=FQfuboY618)
+
+- ![](https://img.shields.io/badge/ACL--2026--Main-darkblue) VIB-Probe: Detecting and Mitigating Hallucinations in Vision-Language Models via Variational Information Bottleneck
+<br> Feiran Zhang, Yixin Wu, Zhenghua Wang, Xiaohua Wang, **Changze Lv**, Xuanjing Huang, Xiaoqing Zheng
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/pdf?id=rm4xQoIHHA)
+
+- ![](https://img.shields.io/badge/ACL--2026--Main-darkblue) Mitigating Hallucinations in VLMs: Enhancing Visual Attention via Head-Wise Perturbation
+<br> Zhenghua Wang, Yixin Wu, Feiran Zhang, Qi Qian, **Changze Lv**, Xuanjing Huang, Xiaoqing Zheng
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/pdf?id=8RoGMPC3CA)
 
 - ![](https://img.shields.io/badge/ICLR--2026-darkblue) RECAST: Strengthening LLMs' Complex Instruction Following with Constraint-Verifiable Data
 <br> Wenhao Liu, Zhengkang Guo, Mingchen Xie, Jingwen Xu, Zisu Huang, Muzhao Tian, Jianhan Xu, Muling Wu, Xiaohua Wang, **Changze Lv**, He-Da Wang, Hu Yao, Xiaoqing Zheng, Xuanjing Huang
