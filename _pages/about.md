@@ -57,7 +57,7 @@ Please feel free to contact me via Phone / WeChat / Telegram: **(+86) 1396749218
 
 # 📚 Technical Reports
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CLBench-Life</div><img src='../images/AMix1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CLBench-Life</div><img src='../images/clblife.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 CL-bench Life: Can Language Models Learn from Real-Life Context?
