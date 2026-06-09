@@ -19,12 +19,12 @@ redirect_from:
 
 I'm currently a Ph.D. student (from fall 2022) at the [School of Computer Science](https://cs.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) and a member of the [FudanNLP Lab](https://nlp.fudan.edu.cn/), supervised by A.P. [Xiaoqing Zheng (郑骁庆)](https://faculty.fudan.edu.cn/zhengxq/zh_CN/) and Prof. [Xuanjing Huang (黄萱菁)](https://xuanjing-huang.github.io/).
 
-My research interests include Brain-inspired Computing, Agentic RL, LLM Reasoning, Time Series Analysis, and AI for Science.
-I am currently working on Agentic Reinforcement Learning, Generative Protein Foundation Models, and Biologically-Plausible Learning Algorithms.
+My research interests include Agentic RL, LLM Reasoning, Time Series Analysi, Brain-inspired Computing, and AI for Science.
+I am currently working on Long-horizon Agentic RL and Agent Harness.
 
 I have led first-author research published at ICML, NeurIPS, ICLR, and ACL, and have also contributed as a co-author to works appearing at EMNLP, WWW, COLING, InfoCom, and IJCAI.
 
-I serve as the Area Chair for ACL and ENMNLP, and the Reviewer for conferences (ICML, ICLR, NeurIPS, ACL, EMNLP, ICCV, IJCAI, AAAI, ACM MM, COLING) and journals (IEEE Transactions on Affective Computing, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Cognitive and Developmental Systems, Neural Networks).
+I serve as the Area Chair for ACL and EMNLP, and the Reviewer for conferences (ICML, ICLR, NeurIPS, ACL, EMNLP, ICCV, IJCAI, AAAI, ACM MM, COLING) and journals (IEEE Transactions on Affective Computing, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Cognitive and Developmental Systems, Neural Networks).
 
 I am expected to graduate in 2027.06, and **I am currently on the job market**!
 
