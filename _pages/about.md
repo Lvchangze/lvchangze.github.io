@@ -157,7 +157,7 @@ Efficient and Effective Time-Series Forecasting with Spiking Neural Networks \\
 Spiking Convolutional Neural Networks for Text Classification \\
 **Changze Lv**, Jianhan Xu, Xiaoqing Zheng
 - A "conversion + fine-tuning" two-step method for training SNNs for text classification.
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/forum?id=pgU3k7QXuz0) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/Lvchangze/snn) 
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2406.19230) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/Lvchangze/snn) 
 </div>
 </div>
 
@@ -181,7 +181,7 @@ SpikeBERT: A Language Spikformer Trained with Two-stage Knowledge Distillation f
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv(2406.16062)</div><img src='../images/bio_survey.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv(2406.16062)</div><img src='../images/bio_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 Towards Biologically Plausible Computing: A Comprehensive Comparison \\
@@ -189,7 +189,7 @@ Towards Biologically Plausible Computing: A Comprehensive Comparison \\
 - A comprehensive comparison of various brain-inspired training methods.
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2406.16062)
 </div>
-</div>
+</div> -->
 
 ## Large Language Models
 
@@ -217,11 +217,11 @@ Learning Query-Specific Rubrics from Human Preferences for DeepResearch Report G
 
 - ![](https://img.shields.io/badge/ACL--2026--Main-darkblue) Controllable Memory Usage: Balancing Anchoring and Innovation in Long-Term Human–Agent Interaction
 <br> Zisu Huang, Muzhao Tian, Xiaohua Wang, Jingwen Xu, Zhengkang Guo, Qi Qian, Kaitao Song, Jiakang Yuan, **Changze Lv**, Xiaoqing Zheng
-<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/pdf?id=FQfuboY618)
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2601.05107)
 
 - ![](https://img.shields.io/badge/ACL--2026--Main-darkblue) VIB-Probe: Detecting and Mitigating Hallucinations in Vision-Language Models via Variational Information Bottleneck
 <br> Feiran Zhang, Yixin Wu, Zhenghua Wang, Xiaohua Wang, **Changze Lv**, Xuanjing Huang, Xiaoqing Zheng
-<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/pdf?id=rm4xQoIHHA)
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2601.05547)
 
 - ![](https://img.shields.io/badge/ACL--2026--Findings-darkblue) Mitigating Hallucinations in VLMs: Enhancing Visual Attention via Head-Wise Perturbation
 <br> Zhenghua Wang, Yixin Wu, Feiran Zhang, Qi Qian, **Changze Lv**, Xuanjing Huang, Xiaoqing Zheng
