@@ -110,7 +110,7 @@ Searching for Best Practices in Retrieval-Augmented Generation
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-2026-Findings</div><img src='../images/layer-wise-PE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-2026 (Findings)</div><img src='../images/layer-wise-PE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Mitigating Position Bias in Transformers via Layer-Specific Positional Embedding Scaling \\
@@ -201,7 +201,7 @@ SpikeBERT: A Language Spikformer Trained with Two-stage Knowledge Distillation f
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv(2602.03619)</div><img src='../images/rubric_generator.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
+<div class='paper-box-text' markdown="1">
 
 Learning Query-Specific Rubrics from Human Preferences for DeepResearch Report Generation \\
 **Changze Lv**, Jie Zhou, Wentao Zhao, et al.
