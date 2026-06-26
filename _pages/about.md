@@ -38,8 +38,8 @@ Please feel free to contact me via Phone / WeChat / Telegram: **(+86) 1396749218
 # 💻 Internships
 - *2023.11 - 2025.02*, [Microsoft Research Asia](https://www.msra.cn/). Artificial Intelligence & Machine Learning Group. Research on time-series forecasting. Supervised by [Yansen Wang](https://scholar.google.com/citations?user=Hvbzb1kAAAAJ&hl=en), [Dongqi Han](https://scholar.google.com.hk/citations?user=3V_9fRUAAAAJ&hl=zh-CN), and [Dongsheng Li](https://scholar.google.com/citations?user=VNg5rA8AAAAJ&hl=zh-CN).
 - *2025.03 - 2025.09*, [Shanghai AI Lab](https://www.shlab.org.cn/). AI for Science Group. Research on protein foundation models. Supervised by [Lihao Wang](https://github.com/leowang1217), [Jiangtao Feng](https://scholar.google.com/citations?user=7ufSFeIAAAAJ&hl=en), and [Hao Zhou](https://zhouh.github.io/).
-- *2025.09 - 2026.02*, [Tencent](https://www.tencent.com/zh-cn/index.html). WXG, WeLM Post-Training Group. Qingyun Program (青云计划). Research on deep research, agentic RL.
-- *2026.03 - Current*, [Tencent](https://www.tencent.com/zh-cn/index.html). TEG, LLM Department, Hunyuan Post-Training Group. Qingyun Program (青云计划). Research on long horizon agent RL.
+- *2025.09 - 2026.02*, [Tencent](https://www.tencent.com/zh-cn/index.html). WXG, WeLM Post-Training Group. Qingyun Program. Research on deep research, agentic RL.
+- *2026.03 - Current*, [Tencent](https://www.tencent.com/zh-cn/index.html). TEG, LLM Department, Hunyuan Post-Training Group. Qingyun Program. Research on long-horizon agent RL.
 
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 Four papers on Agent Memory and RoPE Scaling were accepted by **ACL-2026-Main/Findings**!
