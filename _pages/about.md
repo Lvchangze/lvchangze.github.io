@@ -38,7 +38,8 @@ Please feel free to contact me via Phone / WeChat / Telegram: **(+86) 1396749218
 # 💻 Internships
 - *2023.11 - 2025.02*, [Microsoft Research Asia](https://www.msra.cn/). Artificial Intelligence & Machine Learning Group. Research on time-series forecasting. Supervised by [Yansen Wang](https://scholar.google.com/citations?user=Hvbzb1kAAAAJ&hl=en), [Dongqi Han](https://scholar.google.com.hk/citations?user=3V_9fRUAAAAJ&hl=zh-CN), and [Dongsheng Li](https://scholar.google.com/citations?user=VNg5rA8AAAAJ&hl=zh-CN).
 - *2025.03 - 2025.09*, [Shanghai AI Lab](https://www.shlab.org.cn/). AI for Science Group. Research on protein foundation models. Supervised by [Lihao Wang](https://github.com/leowang1217), [Jiangtao Feng](https://scholar.google.com/citations?user=7ufSFeIAAAAJ&hl=en), and [Hao Zhou](https://zhouh.github.io/).
-- *2025.09 - Current*, [Tencent](https://www.tencent.com/zh-cn/index.html). Qingyun Program (青云计划). Research on agentic reinforcement learning.
+- *2025.09 - 2026.02*, [Tencent](https://www.tencent.com/zh-cn/index.html). WXG, WeLM Post-Training Group. Qingyun Program (青云计划). Research on deep research, agentic RL.
+- *2026.03 - Current*, [Tencent](https://www.tencent.com/zh-cn/index.html). TEG, LLM Department, Hunyuan Post-Training Group. Qingyun Program (青云计划). Research on long horizon agent RL.
 
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 Four papers on Agent Memory and RoPE Scaling were accepted by **ACL-2026-Main/Findings**!
@@ -99,7 +100,15 @@ Searching for Best Practices in Retrieval-Augmented Generation
 
 # 📝 Publications
 
-## Brain-Inspired Computing
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-2026-Findings</div><img src='../images/layer-wise-PE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Mitigating Position Bias in Transformers via Layer-Specific Positional Embedding Scaling \\
+**Changze Lv**\*, Zhenghua Wang\*, Yiran Ding\*, et al.
+- A layer-specific positional encoding scaling method.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)]()
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR-2026 (Poster)</div><img src='../images/bsd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -181,25 +190,13 @@ SpikeBERT: A Language Spikformer Trained with Two-stage Knowledge Distillation f
 </div>
 </div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv(2406.16062)</div><img src='../images/bio_survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv(2406.16062)</div><img src='../images/bio_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 Towards Biologically Plausible Computing: A Comprehensive Comparison \\
 **Changze Lv**, Yufei Gu, Zhengkang Guo, et al.
 - A comprehensive comparison of various brain-inspired training methods.
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2406.16062)
-</div>
-</div> -->
-
-## Large Language Models
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-2026-Findings</div><img src='../images/layer-wise-PE.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Mitigating Position Bias in Transformers via Layer-Specific Positional Embedding Scaling \\
-Zhenghua Wang\*, Yiran Ding\*, **Changze Lv**\*, et al.
-- A layer-specific positional encoding scaling method.
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2503.04355)
 </div>
 </div>
 
