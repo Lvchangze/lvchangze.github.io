@@ -58,6 +58,16 @@ Please feel free to contact me via Phone / WeChat / Telegram: **(+86) 1396749218
 
 # 📚 Technical Reports
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reward Hacking</div><img src='../images/reward_hacking.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges
+- FudanNLP Group
+- A survey on reward hacking. We propose the Proxy Compression Hypothesis (PCH) as a unifying framework for understanding reward hacking.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2604.13602) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/xhwang22/Awesome-Reward-Hacking) 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CLBench-Life</div><img src='../images/clblife.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -190,7 +200,7 @@ SpikeBERT: A Language Spikformer Trained with Two-stage Knowledge Distillation f
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv(2406.16062)</div><img src='../images/bio_survey.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv(2406.16062)</div><img src='../images/bio_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 Towards Biologically Plausible Computing: A Comprehensive Comparison \\
@@ -201,7 +211,7 @@ Towards Biologically Plausible Computing: A Comprehensive Comparison \\
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv(2602.03619)</div><img src='../images/rubric_generator.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1"> -->
 
 Learning Query-Specific Rubrics from Human Preferences for DeepResearch Report Generation \\
 **Changze Lv**, Jie Zhou, Wentao Zhao, et al.
