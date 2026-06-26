@@ -200,16 +200,6 @@ SpikeBERT: A Language Spikformer Trained with Two-stage Knowledge Distillation f
 </div>
 </div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv(2406.16062)</div><img src='../images/bio_survey.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-Towards Biologically Plausible Computing: A Comprehensive Comparison \\
-**Changze Lv**, Yufei Gu, Zhengkang Guo, et al.
-- A comprehensive comparison of various brain-inspired training methods.
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2406.16062)
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv(2602.03619)</div><img src='../images/rubric_generator.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
@@ -217,6 +207,16 @@ Learning Query-Specific Rubrics from Human Preferences for DeepResearch Report G
 **Changze Lv**, Jie Zhou, Wentao Zhao, et al.
 - A pipeline for training query-specific rubric generators.
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2602.03619)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv(2406.16062)</div><img src='../images/bio_survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Towards Biologically Plausible Computing: A Comprehensive Comparison \\
+**Changze Lv**, Yufei Gu, Zhengkang Guo, et al.
+- A comprehensive comparison of various brain-inspired training methods.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2406.16062)
 </div>
 </div>
 
