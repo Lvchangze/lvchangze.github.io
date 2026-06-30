@@ -116,7 +116,7 @@ Searching for Best Practices in Retrieval-Augmented Generation
 Mitigating Position Bias in Transformers via Layer-Specific Positional Embedding Scaling \\
 **Changze Lv**\*, Zhenghua Wang\*, Yiran Ding\*, et al.
 - A layer-specific positional encoding scaling method.
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)]()
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2606.27705)
 </div>
 </div>
 
