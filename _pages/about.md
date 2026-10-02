@@ -19,7 +19,7 @@ redirect_from:
 
 I'm currently a Ph.D. student (from fall 2022) at the [School of Computer Science](https://cs.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) and a member of the [FudanNLP Lab](https://nlp.fudan.edu.cn/), supervised by A.P. [Xiaoqing Zheng (郑骁庆)](https://faculty.fudan.edu.cn/zhengxq/zh_CN/) and Prof. [Xuanjing Huang (黄萱菁)](https://xuanjing-huang.github.io/).
 
-My research interests include Agentic RL, LLM Reasoning, Time Series Analysi, Brain-inspired Computing, and AI for Science.
+My research interests include Agentic RL, LLM Reasoning, Time Series Analysis, Brain-inspired Computing, and AI for Science.
 I am currently working on Long-horizon Agentic RL and Agent Harness.
 
 I have led first-author research published at ICML, NeurIPS, ICLR, and ACL, and have also contributed as a co-author to works appearing at EMNLP, WWW, COLING, InfoCom, and IJCAI.
@@ -42,6 +42,7 @@ Please feel free to contact me via Phone / WeChat / Telegram: **(+86) 1396749218
 - *2026.03 - Current*, [Tencent](https://www.tencent.com/zh-cn/index.html). TEG LLM Department, Hunyuan Post-Training Group. Qingyun Program. Research on long-horizon agent RL.
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 Two papers on Agent RL were accepted by **EMNLP-2026-Main/Findings**!
 - *2026.04*: &nbsp;🎉🎉 Four papers on Agent Memory and RoPE Scaling were accepted by **ACL-2026-Main/Findings**!
 - *2026.01*: &nbsp;🎉🎉 Three papers on LLM Complex Instruction Following and Bio-learning Algorithms were accepted by **ICLR-2026**!
 - *2025.11*: &nbsp;🎉🎉 One paper on AIGC detection was accepted by **AAAI-2026**!
